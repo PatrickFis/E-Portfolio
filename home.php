@@ -28,6 +28,7 @@
           <li><a href="courses.php">Courses</a></li>
           <li><a href="projects.php">Projects</a></li>
           <li><a href="extra.php">Extracurriculars</a></li>
+          <li><a href="others.php">Other E-Portfolios</a></li>
         </ul>
         </div><!--/.nav-collapse -->
       </div>
