@@ -13,6 +13,16 @@
         <ul class="nav navbar-nav">
           <li><a href="home.php">Home</a></li>
           <li><a href="courses.php">Courses</a></li>
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="courses.php">Courses
+            <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="#">Object-Oriented Programming</a></li>
+              <li><a href="#">Data Structures and Algorithms</a></li>
+              <li><a href="#">Compiler Construction</a></li>
+              <li><a href="#">Operating Systems</a></li>
+            </ul>
+          </li>
           <li><a href="projects.php">Projects</a></li>
           <li><a href="extra.php">Extracurriculars</a></li>
         </ul>
