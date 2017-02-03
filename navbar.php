@@ -20,6 +20,7 @@
               <li><a href="courses.php">Data Structures and Algorithms</a></li>
               <li><a href="courses.php">Compiler Construction</a></li>
               <li><a href="courses.php">Operating Systems</a></li>
+              <li><a href="courses.php">Software Engineering</a></li>
             </ul>
           </li>
           <li><a href="projects.php">Projects</a></li>
