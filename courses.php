@@ -74,7 +74,8 @@
         <div class="col-md-4">
             <h3>Project Description</h3>
             <p>Project info will go here: Possibly showcase a few of the more interesting assignments
-            from the course like Purple America and Guitar Hero. Related projects shown below.</p>
+            from the course like Purple America and Guitar Hero. Related projects shown below. Using
+            placeholder images currently while I decide what should be shown here.</p>
             <h3>Project Details</h3>
             <ul>
                 <li>Code</li>
@@ -120,11 +121,11 @@
     </div>
     <!-- /.row -->
   <!-- Footer here, can add this to other pages later. -->
-  <br><br><br><br><br>
+  <!-- <br><br><br><br><br>
   <div class="navbar navbar-default navbar-fixed-bottom">
       <div class="container">
         <p class="navbar-text pull-left">© 2017</p>
       </div>
-  </div>
+  </div> -->
   </body>
   </html>
