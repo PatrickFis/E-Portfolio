@@ -17,7 +17,7 @@
     <div class="container">
       <div class="page-header">
         <h1>Patrick Fischer</h1>
-        <p>Most of my work has been on adding a framework to my courses page to use for future work.</p>
+        <p>Most of my work has been on adding a framework to my courses page to use for future work and an outline of what I would like to have on my extracurriculars page.</p>
       </div>
 
       <div class="row">
