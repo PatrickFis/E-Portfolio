@@ -57,7 +57,7 @@
     <!-- Portfolio Item Heading -->
     <div class="row">
         <div class="col-lg-12">
-            <h1 class="page-header">Object-Oriented Programming
+            <h1 class="page-header">Compiler Construction
                 <small>Item Subheading</small>
             </h1>
         </div>
@@ -68,14 +68,13 @@
     <div class="row">
 
         <div class="col-md-8">
-            <img class="img-responsive" src="http://placehold.it/750x500" alt="">
+            <img class="img-responsive" src="pictures/compiler/compiler.png" alt="">
         </div>
 
         <div class="col-md-4">
             <h3>Project Description</h3>
-            <p>Project info will go here: Possibly showcase a few of the more interesting assignments
-            from the course like Purple America and Guitar Hero. Related projects shown below. Using
-            placeholder images currently while I decide what should be shown here.</p>
+            <p>Project info will go here: Will try to showcase my compiler here with pictures and
+            instructions on compiling and running it.</p>
             <h3>Project Details</h3>
             <ul>
                 <li>Code</li>
