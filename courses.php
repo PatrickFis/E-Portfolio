@@ -48,6 +48,8 @@
           </div>
         </div>
       </div> -->
+
+
       <!-- Testing portfolio item from Github -->
       <!-- Page Content -->
 <div class="container">
@@ -55,7 +57,7 @@
     <!-- Portfolio Item Heading -->
     <div class="row">
         <div class="col-lg-12">
-            <h1 class="page-header">Portfolio Item
+            <h1 class="page-header">Object-Oriented Programming
                 <small>Item Subheading</small>
             </h1>
         </div>
@@ -71,13 +73,13 @@
 
         <div class="col-md-4">
             <h3>Project Description</h3>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam viverra euismod odio, gravida pellentesque urna varius vitae. Sed dui lorem, adipiscing in adipiscing et, interdum nec metus. Mauris ultricies, justo eu convallis placerat, felis enim.</p>
+            <p>Project info will go here: Possibly showcase a few of the more interesting assignments
+            from the course like Purple America and Guitar Hero. Related projects shown below.</p>
             <h3>Project Details</h3>
             <ul>
-                <li>Lorem Ipsum</li>
-                <li>Dolor Sit Amet</li>
-                <li>Consectetur</li>
-                <li>Adipiscing Elit</li>
+                <li>Code</li>
+                <li>Function</li>
+                <li>Challenges</li>
             </ul>
         </div>
 
