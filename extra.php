@@ -23,7 +23,7 @@
           <ul class="nav nav-tabs-no-style nav-stacked col-md-3">
             <li class="active"><a data-toggle="tab" href="#Tab1">Internships</a></li>
             <li><a data-toggle="tab" href="#Tab2">Work Experience</a></li>
-            <li><a data-toggle="tab" href="#Tab3">Future Use</a></li>
+            <li><a data-toggle="tab" href="#Tab3">UPE</a></li>
             <li><a data-toggle="tab" href="#Tab4">Future Use</a></li>
           </ul>
           <div class="col-md-6">
@@ -38,7 +38,8 @@
                 <p>Information about my work at Lipscomb University will go here.</p>
               </div>
               <div id="Tab3" class="tab-pane fade">
-                <h3>Will use later in the semester.</h3>
+                <h3>Upsilon Pi Epsilon</h3>
+                <p>Information about UPE will go here.
               </div>
               <div id="Tab4" class="tab-pane fade">
                 <h3>Will use later in the semester.</h3>
