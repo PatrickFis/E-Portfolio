@@ -20,7 +20,7 @@
               <li><a href="/courses/automata.php">Automata &amp; Formal Language Theory</a></li>
               <li><a href="/courses/compiler.php">Compiler Construction</a></li>
               <li><a href="/courses/mobile.php">Mobile &amp; Distributed Computing</a></li>
-              <li><a href="/courses/courses.php">Software Engineering</a></li>
+              <!-- <li><a href="/courses/courses.php">Software Engineering</a></li> -->
             </ul>
           </li>
           <li><a href="projects.php">Projects</a></li>
