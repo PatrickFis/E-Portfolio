@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Courses</title>
+  <title>Automata &amp; Formal Language Theory</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
@@ -12,7 +12,7 @@
 <body>
 
   <?php
-  	include 'navbar.php';
+  	include '../navbar.php';
   ?>
     <!-- <div class="container">
       <div class="page-header">
@@ -57,7 +57,7 @@
     <!-- Portfolio Item Heading -->
     <div class="row">
         <div class="col-lg-12">
-            <h1 class="page-header">Compiler Construction
+            <h1 class="page-header">Automata &amp; Formal Language Theory
                 <small>Item Subheading</small>
             </h1>
         </div>
@@ -68,13 +68,13 @@
     <div class="row">
 
         <div class="col-md-8">
-            <img class="img-responsive" src="pictures/compiler/compiler.png" alt="">
+            <img class="img-responsive" src="../pictures/automata/automata.png" alt="">
         </div>
 
         <div class="col-md-4">
             <h3>Project Description</h3>
-            <p>Project info will go here: Will try to showcase my compiler here with pictures and
-            instructions on compiling and running it.</p>
+            <p>Project info will go here: Will explain the semester long project
+            and showcase the finished code here.</p>
             <h3>Project Details</h3>
             <ul>
                 <li>Code</li>
