@@ -14,11 +14,12 @@
   <?php
   include 'navbar.php';
   ?>
-  <div class="container">
-    <div class="page-header">
+  <div class="jumbotron">
+    <div class="container text-center">
       <h1>Patrick Fischer</h1>
-      <p>Most of my work has been on adding a framework to my courses page to use for future work and an outline of what I would like to have on my extracurriculars page.</p>
+      <p>Under Construction...</p>
     </div>
+  </div>
 
     <div class="container-fluid bg-3 text-center">
       <h3>Some of my Work</h3><br>
