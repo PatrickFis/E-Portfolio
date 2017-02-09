@@ -11,7 +11,7 @@
       </div>
       <div id="navbar" class="navbar-collapse collapse">
         <ul class="nav navbar-nav">
-          <li><a href="home.php">Home</a></li>
+          <li><a href="/home.php">Home</a></li>
           <li class="dropdown">
             <a class="dropdown-toggle" data-toggle="dropdown" href="#">Courses
             <span class="caret"></span></a>
