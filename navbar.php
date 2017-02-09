@@ -16,11 +16,11 @@
             <a class="dropdown-toggle" data-toggle="dropdown" href="#">Courses
             <span class="caret"></span></a>
             <ul class="dropdown-menu">
-              <li><a href="courses.php">Object-Oriented Programming</a></li>
-              <li><a href="courses.php">Data Structures and Algorithms</a></li>
-              <li><a href="courses.php">Compiler Construction</a></li>
-              <li><a href="courses.php">Operating Systems</a></li>
-              <li><a href="courses.php">Software Engineering</a></li>
+              <li><a href="courses/courses.php">Object-Oriented Programming</a></li>
+              <li><a href="courses/courses.php">Data Structures and Algorithms</a></li>
+              <li><a href="courses/courses.php">Compiler Construction</a></li>
+              <li><a href="courses/courses.php">Operating Systems</a></li>
+              <li><a href="courses/courses.php">Software Engineering</a></li>
             </ul>
           </li>
           <li><a href="projects.php">Projects</a></li>
