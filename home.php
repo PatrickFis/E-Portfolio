@@ -28,16 +28,16 @@
           <a href="courses.php"><img src="pictures/compiler/compiler.png" class="img-responsive" style="width:100%" alt="Image"></a>
         </div>
         <div class="col-sm-3">
-          <p>Software Engineering</p>
-          <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+          <p>Mobile &amp; Distributed Computing</p>
+          <img src="pictures/mobile_distributed/mobile.png" class="img-responsive" style="width:100%" alt="Image">
         </div>
         <div class="col-sm-3">
           <p>Automata &amp; Formal Language Theory</p>
-          <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+          <img src="pictures/automata/automata.png" class="img-responsive" style="width:100%" alt="Image">
         </div>
         <div class="col-sm-3">
           <p>Object-Oriented Programming</p>
-          <img src="https://placehold.it/150x80?text=IMAGE" class="img-responsive" style="width:100%" alt="Image">
+          <img src="pictures/object_oriented/object.png" class="img-responsive" style="width:100%" alt="Image">
         </div>
       </div>
     </div><br>
