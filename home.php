@@ -43,12 +43,5 @@
       </div>
     </div><br>
   </div>
-  <!-- Footer here, can add this to other pages later. -->
-  <br><br><br><br><br>
-  <div class="navbar navbar-default navbar-fixed-bottom">
-    <div class="container">
-      <p class="navbar-text pull-left">© 2017</p>
-    </div>
-  </div>
 </body>
 </html>
