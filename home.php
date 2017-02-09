@@ -25,7 +25,7 @@
       <div class="row">
         <div class="col-sm-3">
           <p>Compiler Construction</p>
-          <img src="pictures/compiler/compiler.png" href="courses.php" class="img-responsive" style="width:100%" alt="Image">
+          <a href="courses.php"><img src="pictures/compiler/compiler.png" class="img-responsive" style="width:100%" alt="Image"></a>
         </div>
         <div class="col-sm-3">
           <p>Software Engineering</p>
