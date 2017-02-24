@@ -25,6 +25,15 @@
           </li>
           <li><a href="projects.php">Projects</a></li>
           <li><a href="extra.php">Extracurriculars</a></li>
+          <li class="dropdown">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">Documents
+              <span class="caret"></a>
+            <ul class="dropdown-menu">
+              <li><a href="/docs/Resume.pdf">Resume</a></li>
+              <li><a href="/docs/EducationalReflectionOutline.docx">Education Outline</a></li>
+              <li><a href="/docs/ServiceReflectionOutline.docx">Service Outline</a></li>
+            </ul>
+          </li>
         </ul>
         </div><!--/.nav-collapse -->
       </div>

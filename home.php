@@ -38,7 +38,7 @@
         </div>
         <div class="col-sm-3">
           <p>Object-Oriented Programming</p>
-          <a href="object.php"><img src="pictures/object_oriented/object.png" class="img-responsive" style="width:100%" alt="Image"></a>
+          <a href="courses/object.php"><img src="pictures/object_oriented/object.png" class="img-responsive" style="width:100%" alt="Image"></a>
         </div>
       </div>
     </div><br>
