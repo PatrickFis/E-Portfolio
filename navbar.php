@@ -30,7 +30,7 @@
               <span class="caret"></a>
             <ul class="dropdown-menu">
               <li><a href="/docs/Resume.pdf">Resume</a></li>
-              <li><a href="/docs/Education\ Reflection.docx">Education Reflection</a></li>
+              <li><a href="/docs/Education Reflection.docx">Education Reflection</a></li>
               <li><a href="/docs/ServiceReflectionOutline.docx">Service Outline</a></li>
             </ul>
           </li>
