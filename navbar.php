@@ -33,7 +33,6 @@
                 <li><a href="#">Genetics Associates</a></li>
               </ul>
           </li>
-          <li><a href="extra.php">Extracurriculars</a></li>
           <li class="dropdown">
             <a class="dropdown-toggle" data-toggle="dropdown" href="#">Documents
               <span class="caret"></a>
