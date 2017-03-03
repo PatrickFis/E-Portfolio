@@ -24,6 +24,15 @@
             </ul>
           </li>
           <li><a href="projects.php">Projects</a></li>
+          <li class="dropdown">
+            <a class ="dropdown-toggle" data-toggle="dropdown" href="#">Extracurriculars
+              <span class="caret"></a>
+              <ul class="dropdown-menu">
+                <li><a href="extra.php">ICPC</a></li>
+                <li><a href="#">SECCDC</a></li>
+                <li><a href="#">Genetics Associates</a></li>
+              </ul>
+          </li>
           <li><a href="extra.php">Extracurriculars</a></li>
           <li class="dropdown">
             <a class="dropdown-toggle" data-toggle="dropdown" href="#">Documents
