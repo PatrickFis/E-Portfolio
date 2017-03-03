@@ -1,0 +1,114 @@
+Update sources.list with the following:
+deb http://archive.debian.org/debian/ squeeze main non-free contrib
+deb-src http://archive.debian.org/debian/ squeeze main non-free contrib
+
+deb http://archive.debian.org/debian-security/ squeeze/updates main non-free contrib
+deb-src http://archive.debian.org/debian-security/ squeeze/updates main non-free contrib
+Have to update in order for Debian
+Run apt-get update
+If a key error occurs: run apt-get install debian-archive-keyring, then rerun apt-get update
+Run apt-get dist-upgrade
+Reboot
+https://rimuhosting.com/knowledgebase/linux/distros/dist-upgrade
+
+Upgrade from Squeeze to Wheezy:
+Run an apt-get update and upgrade before doing this
+Edit your sources.list file and add the following sources to it:
+deb http://ftp.us.debian.org/debian wheezy main contrib non-free
+deb-src http://ftp.us.debian.org/debian wheezy main contrib non-free
+deb http://ftp.us.debian.org/debian wheezy-updates main contrib non-free
+deb http://security.debian.org/ wheezy/updates main contrib non-free
+Run apt-get update
+Run apt-get dist-upgrade
+Reboot
+https://www.howtoforge.com/how-to-upgrade-debian-squeeze-to-wheezy
+
+May have to use aptitude instead of apt at first.
+
+SECURE SSH
+Edit /etc/sshd_config:
+Make sure Protocol 2 is used instead of Protocol 1
+Change Port 22 to something different
+Verify the file with /usr/sbin/sshd -t before reloading
+service ssh restart
+
+Install Fail2Ban
+apt-get install Fail2Ban
+cd /etc/fail2ban/
+Copy the jail.conf file to jail.local using this command:
+awk '{ printf "# "; print; }' /etc/fail2ban/jail.conf | sudo tee /etc/fail2ban/jail.local
+This will comment out the contents of the file. Edit jail.local instead of jail.conf (except for Dovecot).
+Secure SSH with Fail2Ban
+Edit jail.local
+Increase the bantime to some arbitrary large number
+Change the ssh port to the port you chose earlier
+Change maxretry to 0
+Stop and restart fail2ban: service fail2ban stop, service fail2ban start
+Check iptables rules using iptables -S
+https://www.digitalocean.com/community/tutorials/how-to-protect-ssh-with-fail2ban-on-ubuntu-14-04
+
+Secure Dovecot with Fail2Ban
+Create the filter file /etc/fail2ban/filter.d/dovecot-pop3imap.conf
+[Definition]
+failregex = (?: pop3-login|imap-login): (?:Authentication failure|Aborted login \(auth failed|Aborted login \(tried to use disabled|Disconnected \(auth failed).*rip=(?P<host>\S*),.*
+ignoreregex =
+
+Add the following to /etc/fail2ban/jail.conf:
+[dovecot-pop3imap]
+enabled = true
+filter = dovecot-pop3imap
+action = iptables-multiport[name=dovecot-pop3imap, port="pop3,imap", protocol=tcp]
+logpath = /var/log/maillog
+maxretry = 20
+findtime = 1200
+bantime = 1200
+http://wiki2.dovecot.org/HowTo/Fail2Ban
+
+Enable various jails for installed applications as well.
+
+INSTALL UFW
+apt-get install ufw
+Figure out which ports need to be denied and allowed
+
+FIND IMMUTABLE FILES
+lsattr -R / 2>/dev/null | grep -- "-i-"
+chattr -V +i file = make file immutable
+chattr -V -i file = make file mutable
+Consider making /etc/passwd immutable so new users can't be added
+
+INSTALL SCREEN
+`apt-get install screen`
+Use `screen -S <name>` to make a new screen, run something that will take a while, then do `ctrl+a, d` to detach from the screen.
+To go back to the screen do `screen -r <name>`
+
+USE OPENSSL TO CREATE AN SSL certificate
+openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365
+Secure the folder containing the certificates with chmod 0750
+Secure the key with chmod 0640
+Secure the certificate with chmod 0644
+Change dovecot configuration to use the key and cert:
+The file is an SSL file in /etc/dovecot/conf.d
+ssl_cert = </etc/letsencrypt/live/mail.example.com/fullchain.pem
+ssl_key = </etc/letsencrypt/live/mail.example.com/privkey.pem
+Edit exim's config file: /etc/exim.conf
+tls_certificate = /etc/exim.cert
+tls_privatekey = /etc/exim.key
+Edit postfix's config file:
+
+RESTRICT DEVELOPER TOOLS
+Create a group called compiler: groupadd compiler
+Change the owner of /usr/bin/gcc and other development tools: chown root:compiler /usr/bin/gcc
+Change the permissions on gcc and other tools using chmod 0750 /usr/bin/gcc
+
+IPTABLES
+Drop packets sent from an IP: sudo iptables -A INPUT -s IP_ADDRESS -j DROP
+Unblock IP: sudo iptables -D INPUT -s IP_ADDRESS -j DROP
+
+FIND PORTS THAT YOUR APPLICATIONS ARE USING(Figure out which command works):
+sudo lsof -i
+sudo netstat -lptu
+sudo netstat -tulpn
+
+Maybe install locate?
+apt-get install locate
+updatedb (updates locates database)
