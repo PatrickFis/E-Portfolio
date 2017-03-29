@@ -41,9 +41,9 @@
             based on how their population voted in the presidential election.</p>
             <h3>Project Details</h3>
             <ul>
-                <li>The project can be downloaded <a href="#">here</a>.</li>
-                <li>To run the project, simply type ...</li>
-                <li>More information</li>
+                <li>The project can be downloaded <a href="../code/oop/Purple.zip">here</a>.</li>
+                <li>To run the project, unzip Purple.zip and type java -jar Purple_America.jar USA-county 2012 into the command line.</li>
+                <li>Individual states can be drawn by typing the same command, except substituting the state's abbreviation instead of USA-county. Other years elections results can also be used by changing 2012 to another year.</li>
             </ul>
         </div>
 
