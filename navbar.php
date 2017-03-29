@@ -28,8 +28,8 @@
             <a class ="dropdown-toggle" data-toggle="dropdown" href="#">Extracurriculars
               <span class="caret"></a>
               <ul class="dropdown-menu">
-                <li><a href="extra.php">ICPC</a></li>
-                <li><a href="#">SECCDC</a></li>
+                <li><a href="icpc.php">ICPC</a></li>
+                <li><a href="ccdc.php">SECCDC</a></li>
                 <li><a href="#">Genetics Associates</a></li>
               </ul>
           </li>
