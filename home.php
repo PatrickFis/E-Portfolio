@@ -48,6 +48,6 @@
       <p>Service: I'll write about service work that I've done through Lipscomb(SALT and some other work).</p>
       <p>Work: I'll write about my internship at Genetics Associates.</p>
     </div> -->
-  <!-- </div> -->
+  </div>
 </body>
 </html>
