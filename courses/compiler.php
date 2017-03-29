@@ -58,7 +58,7 @@
     <div class="row">
         <div class="col-lg-12">
             <h1 class="page-header">Compiler Construction
-                <small>Item Subheading</small>
+                <small>Semester Project</small>
             </h1>
         </div>
     </div>
@@ -72,13 +72,16 @@
         </div>
 
         <div class="col-md-4">
-            <h3>Project Description</h3>
-            <p>Project info will go here: Will try to showcase my compiler here with pictures and
-            instructions on compiling and running it.</p>
+            <h3>SLIC Compiler</h3>
+            <p>This program will compile programs written in SLIC to GSTAL.</p>
             <h3>Project Details</h3>
             <ul>
-                <li>Code</li>
-                <li>Function</li>
+                <li>The project can be downloaded <a href="../code/compiler/Compiler.zip">here</a>.</li>
+                <li>The compilation for this project is fairly involved. To compile the project, you must use
+                Flex, Bison, GCC, and make. If all of these tools are installed the program can be compiled
+                by typing "make" (if in a Unix environment), or by typing "make windows" (if using Cygwin for Windows).
+                TODO: Screenshots have been provided showing the results of compiling and running the project on an input file
+                for conveinence.</li>
                 <li>Challenges</li>
             </ul>
         </div>
