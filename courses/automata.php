@@ -72,13 +72,15 @@
         </div>
 
         <div class="col-md-4">
-            <h3>Project Description</h3>
-            <p>Project info will go here: Will explain the semester long project
-            and showcase the finished code here.</p>
+            <h3>Finite Automata Project</h3>
+            <p>This project involved creating a data structure that modeled a Nondeterministic and Determinitistic Finite Automaton(NFA &amp;DFA).
+            The end result was a program that modeled the data structure by implementing a number of methods that modeled
+            the various operations(union, epsilon closure, determining regular expressions).</p>
             <h3>Project Details</h3>
             <ul>
-                <li>Code</li>
-                <li>Function</li>
+                <li>The code for the project can be downloaded <a href="../code/automata.zip">here</a>.</li>
+                <li>The project can be run by compiling the Java files included in the zip folder.
+                Several files ask for user interaction to build a DFA/NFA and then do a specified operation on it.</li>
                 <li>Challenges</li>
             </ul>
         </div>
