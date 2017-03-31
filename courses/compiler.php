@@ -8,6 +8,7 @@
   <link rel="stylesheet" type="text/css" href="stylesheet.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+   <style>.carousel-inner > .item > img { width:100%; height:570px; } </style>
 </head>
 <body>
 
