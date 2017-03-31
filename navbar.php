@@ -20,6 +20,10 @@
               <li><a href="/courses/automata.php">Automata &amp; Formal Language Theory</a></li>
               <li><a href="/courses/compiler.php">Compiler Construction</a></li>
               <li><a href="/courses/mobile.php">Mobile &amp; Distributed Computing</a></li>
+              <li><a href="/courses/infosec.php">Information Security</a></li>
+              <li><a href="/courses/numerical.php">Numerical Methods</a></li>
+              <li><a href="/courses/operatingsystems.php">Operating Systems</a></li>
+              <li><a href="/courses/softwareeng.php">Software Engineering</a><li>
               <!-- <li><a href="/courses/courses.php">Software Engineering</a></li> -->
             </ul>
           </li>
