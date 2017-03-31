@@ -44,19 +44,19 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
               <div class="item active">
-                <img src="../pictures/infosec/pic1.jpg" alt="Graph generated from logs">
+                <img src="../pictures/infosec/pic1.png" alt="Graph generated from logs">
               </div>
 
               <div class="item">
-                <img src="../pictures/infosec/pic2.jpg" alt="Part of the OSSEC Kibana GUI">
+                <img src="../pictures/infosec/pic2.png" alt="Part of the OSSEC Kibana GUI">
               </div>
 
               <div class="item">
-                <img src="../pictures/infosec/pic3.jpg" alt="Logs in JSON format">
+                <img src="../pictures/infosec/pic3.png" alt="Logs in JSON format">
               </div>
 
               <div class="item">
-                <img src="../pictures/infosec/pic4.jpg" alt="Log with more details shown">
+                <img src="../pictures/infosec/pic4.png" alt="Log with more details shown">
               </div>
             </div>
 
