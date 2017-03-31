@@ -107,7 +107,7 @@
                 <img src="../pictures/compiler/zelleroutput.png" alt="Zeller's Congruence Output">
                 <div class="carousel-caption">
                   <h3>Zeller's Congruence</h3>
-                  <p>Output of the assembled program outputing what day a specific date fell on</p>
+                  <p>Output of the assembled program showing what day a specific date fell on</p>
                 </div>
               </div>
             </div>
