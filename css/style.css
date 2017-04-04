@@ -3,5 +3,5 @@ body {
 }
 
 .jumbotron {
-    background: lightblue;
+    background-color: lightblue !important;
 }
