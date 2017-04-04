@@ -14,8 +14,8 @@
   <?php
   include 'navbar.php';
   ?>
-  <div class="jumbotron" >
-    <div class="container text-center">
+  <div class="jumbotron" style="background-color: lightblue !important">
+    <div class="container text-center" style="background-color: lightblue !important">
       <h1>Patrick Fischer</h1>
       <p>Under Construction...</p>
     </div>
