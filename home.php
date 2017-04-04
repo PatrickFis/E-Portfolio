@@ -14,12 +14,12 @@
   <?php
   include 'navbar.php';
   ?>
-  <div class="jumbotron">
+  <!-- <div class="jumbotron">
     <div class="container text-center">
       <h1>Patrick Fischer</h1>
       <p>Under Construction...</p>
     </div>
-  </div>
+  </div> -->
 
     <div class="container-fluid bg-3 text-center">
       <h3>Some of my Work</h3><br>
