@@ -45,37 +45,15 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
               <div class="item active">
-                <img src="../pictures/compiler/compiler.png" alt="Portion of parser">
-                <div class="carousel-caption">
-                  <h3>Bison Parser</h3>
-                  <p>A short snippet of code taken from the parser</p>
-                </div>
+                <img src="pictures/icpc/acm.jpg" alt="ACM Logo">
               </div>
 
               <div class="item">
-                <img src="../pictures/compiler/zeller.png" alt="Zeller's Congruence SLIC">
+                <img src="pictures/icpc/mid_comp.png" alt="At the programming competition">
                 <div class="carousel-caption">
-                  <h3>Zeller's Congruence</h3>
-                  <p>A small portion of SLIC code from a program that calculates Zeller's Congruence</p>
+                  <h3>ACM Preliminary Round</h3>
                 </div>
               </div>
-
-              <div class="item">
-                <img src="../pictures/compiler/zellergstal.png" alt="Zeller's Congruence GSTAL">
-                <div class="carousel-caption">
-                  <h3>Zeller's Congruence</h3>
-                  <p>Part of the GSTAL code generated from the program shown in the previous slide</p>
-                </div>
-              </div>
-
-              <div class="item">
-                <img src="../pictures/compiler/zelleroutput.png" alt="Zeller's Congruence Output">
-                <div class="carousel-caption">
-                  <h3>Zeller's Congruence</h3>
-                  <p>Output of the assembled program showing what day a specific date fell on</p>
-                </div>
-              </div>
-            </div>
 
             <!-- Left and right controls -->
             <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
@@ -90,17 +68,12 @@
         </div>
 
         <div class="col-md-4">
-            <h3>SLIC Compiler</h3>
-            <p>This program will compile programs written in SLIC to GSTAL.</p>
-            <h3>Project Details</h3>
+            <h3>ACM ICPC Programming Competition</h3>
+            <h3>Details</h3>
             <ul>
-                <li>The project can be downloaded <a href="../code/compiler/Compiler.zip">here</a>.</li>
-                <li>The compilation for this project is fairly involved. To compile the project, you must use
-                Flex, Bison, GCC, and make. If all of these tools are installed the program can be compiled
-                by typing "make" (if in a Unix environment), or by typing "make windows" (if using Cygwin for Windows).
-                TODO: Screenshots have been provided showing the results of compiling and running the project on an input file
-                for conveinence.</li>
-                <li>Challenges</li>
+                <li>Competed x years</li>
+                <li>Add more pictures</li>
+                <li>Add descriptions</li>
             </ul>
         </div>
 
