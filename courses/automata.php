@@ -88,8 +88,11 @@
     </div>
     <!-- /.row -->
 
+    <?php
+      include '../project_randomizer.php';
+     ?>
     <!-- Related Projects Row -->
-    <div class="row">
+    <!-- <div class="row">
 
         <div class="col-lg-12">
             <h3 class="page-header">Related Projects</h3>
@@ -119,7 +122,7 @@
             </a>
         </div>
 
-    </div>
+    </div> -->
     <!-- /.row -->
   <!-- Footer here, can add this to other pages later. -->
   <!-- <br><br><br><br><br>
