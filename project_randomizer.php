@@ -23,7 +23,7 @@
     if(count($chosenArray) < 4) {
       $randInt = random(0, count($projects-1));
       if(inArray($chosenArray, $randInt)) {
-        i--;
+        $i--;
       }
       else {
         array_push($chosenArray, $randInt);
