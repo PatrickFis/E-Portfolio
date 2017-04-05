@@ -27,7 +27,7 @@
               <!-- <li><a href="/courses/courses.php">Software Engineering</a></li> -->
             </ul>
           </li>
-          <li><a href="projects.php">Projects</a></li>
+          <!-- <li><a href="projects.php">Projects</a></li> -->
           <li class="dropdown">
             <a class ="dropdown-toggle" data-toggle="dropdown" href="#">Extracurriculars
               <span class="caret"></a>
