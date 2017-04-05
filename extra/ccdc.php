@@ -12,7 +12,7 @@
 <body>
 
   <?php
-  	include 'navbar.php';
+  	include '../navbar.php';
   ?>
 
       <!-- Testing portfolio item from Github -->
