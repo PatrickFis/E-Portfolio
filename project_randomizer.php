@@ -34,7 +34,7 @@
   for($i = 0; $i < count($chosenArray); $i++) {
     echo '<div class="col-sm-3 col-xs-6">';
     echo '<a href="'.$projects[$chosenArray[$i]].'">';
-    echo '<img class="img-responsive portfolio-item" src='.$pictures[$chosenArray[$i]].'alt="">';
+    echo '<img class="img-responsive portfolio-item" src="'.$pictures[$chosenArray[$i]].'" alt="">';
     echo '</a>';
     echo '</div>';
   }
