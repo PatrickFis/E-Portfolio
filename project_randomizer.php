@@ -4,7 +4,7 @@
   echo '<div class="row">';
 
   echo '<div class="col-lg-12">';
-  echo '<h3 class="page-header">';
+  echo '<h3 class="page-header">Other Projects</h3>';
   echo '</div>';
 
   // Contains the projects that will be randomly selected and placed at the end of certain pages.
