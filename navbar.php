@@ -32,9 +32,9 @@
             <a class ="dropdown-toggle" data-toggle="dropdown" href="#">Extracurriculars
               <span class="caret"></a>
               <ul class="dropdown-menu">
-                <li><a href="icpc.php">ICPC</a></li>
-                <li><a href="ccdc.php">SECCDC</a></li>
-                <li><a href="#">Genetics Associates</a></li>
+                <li><a href="/extra/icpc.php">ICPC</a></li>
+                <li><a href="/extra/ccdc.php">SECCDC</a></li>
+                <li><a href="/extra/genetics.php">Genetics Associates</a></li>
               </ul>
           </li>
           <li class="dropdown">
