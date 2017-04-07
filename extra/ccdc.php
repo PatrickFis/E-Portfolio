@@ -22,8 +22,7 @@
     <!-- Portfolio Item Heading -->
     <div class="row">
         <div class="col-lg-12">
-            <h1 class="page-header">SECCDC Cybersecurity Competition
-                <small>Description goes here - Change the pictures</small>
+            <h1 class="page-header">Southeast Collegiate Cyber Defense Competition
             </h1>
         </div>
     </div>
