@@ -30,6 +30,7 @@
       }
     }
   }
+  echo $chosenArray;
 
   for($i = 0; $i < count($chosenArray); $i++) {
     echo '<div class="col-sm-3 col-xs-6">';
