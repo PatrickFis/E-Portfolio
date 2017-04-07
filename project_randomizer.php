@@ -18,6 +18,7 @@
                     '/pictures/object_oriented/object.png', 'http://placehold.it/500x300', 'http://placehold.it/500x300',
                     '/pictures/seccdc/group_pic.jpg', 'http://placehold.it/500x300', '/pictures/icpc/acm.jpg');
 
+  // Choose four random projects
   $chosenArray = array();
   for($i = 0; $i < count($projects); $i++) {
     if(count($chosenArray) < 4) {
@@ -29,9 +30,14 @@
         array_push($chosenArray, $randInt);
       }
     }
+    else {
+      break;
+    }
   }
+  // Debug
   print_r(array_values($chosenArray));
 
+  // HTML for the projects
   for($i = 0; $i < count($chosenArray); $i++) {
     echo '<div class="col-sm-3 col-xs-6">';
     echo '<a href="'.$projects[$chosenArray[$i]].'">';
