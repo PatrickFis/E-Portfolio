@@ -35,7 +35,7 @@
     }
   }
   // Debug
-  print_r(array_values($chosenArray));
+  // print_r(array_values($chosenArray));
 
   // HTML for the projects
   for($i = 0; $i < count($chosenArray); $i++) {
