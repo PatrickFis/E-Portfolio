@@ -44,7 +44,7 @@
                 <li>I was the mail/SSH server admin. This was fairly challenging,
                 as I was not entirely familiar with all of the applications that
                 needed to be be kept running in order for the mail service to stay up.
-                A detailed report of what occured during the competition can be read
+                A detailed markdown report of what occured during the competition can be read
                 <a href="../ccdc/Ubuntu AAR.md">here.</a></li>
             </ul>
         </div>
@@ -52,39 +52,11 @@
     </div>
     <!-- /.row -->
 
-    <!-- Related Projects Row -->
-    <div class="row">
+    <!-- Other projects -->
 
-        <div class="col-lg-12">
-            <h3 class="page-header">Related Projects</h3>
-        </div>
-
-        <div class="col-sm-3 col-xs-6">
-            <a href="#">
-                <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
-            </a>
-        </div>
-
-        <div class="col-sm-3 col-xs-6">
-            <a href="#">
-                <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
-            </a>
-        </div>
-
-        <div class="col-sm-3 col-xs-6">
-            <a href="#">
-                <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
-            </a>
-        </div>
-
-        <div class="col-sm-3 col-xs-6">
-            <a href="#">
-                <img class="img-responsive portfolio-item" src="http://placehold.it/500x300" alt="">
-            </a>
-        </div>
-
-    </div>
-    <!-- /.row -->
+    <?php
+      include '../project_randomizer.php';
+     ?>
   <!-- Footer here, can add this to other pages later. -->
   <!-- <br><br><br><br><br>
   <div class="navbar navbar-default navbar-fixed-bottom">
