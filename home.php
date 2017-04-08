@@ -14,15 +14,17 @@
   <?php
   include 'navbar.php';
   ?>
-  <div class="jumbotron" >
-    <div class="container text-center">
-      <h1>Patrick Fischer</h1>
-      <p>Under Construction...</p>
+  <div class="container">
+    <div class="jumbotron" >
+      <div class="container text-center">
+        <h1>Patrick Fischer</h1>
+        <p>Under Construction...</p>
+      </div>
     </div>
-  </div>
-  <?php
-    include 'project_randomizer.php';
-   ?>
+    <?php
+      include 'project_randomizer.php';
+     ?>
+   </div>
     <!-- <div class="container-fluid">
       <p>Three sentences for reflection papers:</p>
       <p>Academic: I'll write about some of my more difficult classes(like compiler construction).</p>
