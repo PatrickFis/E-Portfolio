@@ -44,8 +44,10 @@
             <div class="carousel-inner" role="listbox">
               <div class="item active">
                 <img src="/pictures/genetics/flash_report.png" alt="Flash Report">
-                <h3 style="color:black;">Portion of code from one of the reports I helped re-write</h3>
-                <p style="color:black;">This report let upper management know what cases had been recently completed</p>
+                <div class="carousel-caption">
+                  <h3 style="color:black;">Portion of code from one of the reports I helped re-write</h3>
+                  <p style="color:black;">This report let upper management know what cases had been recently completed</p>
+                </div>
               </div>
 
               <div class="item">
