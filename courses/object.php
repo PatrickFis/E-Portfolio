@@ -32,18 +32,62 @@
     <div class="row">
 
         <div class="col-md-8">
-            <img class="img-responsive" src="../pictures/object_oriented/object.png" alt="">
+          <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+              <li data-target="#myCarousel" data-slide-to="1"></li>
+              <li data-target="#myCarousel" data-slide-to="2"></li>
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <img src="/pictures/object_oriented/object.png" alt="Purple America Screenshot">
+                <div class="carousel-caption">
+                  <h3 style="color:black;">Purple America project</h3>
+                  <p style="color:black;">Map of the USA's counties colored based on votes in the 2012 presidential election</p>
+                </div>
+              </div>
+
+              <div class="item">
+                <img src="/pictures/object_oriented/purple_code.png" alt="Purple America Code">
+                <div class="carousel-caption">
+                  <h3 style="color:black;">Purple America project</h3>
+                  <p style="color:black;">Portion of the code used to draw and color the map</p>
+                </div>
+              </div>
+
+              <div class="item">
+                <img src="../pictures/object_oriented/guitar.png" alt="Guitar Hero Code">
+                <div class="carousel-caption">
+                  <h3 style="color:black;">Guitar Hero project</h3>
+                  <p style="color:black;">Simulates the sound of plucking a guitar string</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Left and right controls -->
+            <!-- <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a> -->
+            </div>
         </div>
 
         <div class="col-md-4">
-            <h3>Purple America</h3>
-            <p>This program creates a graphical representation of the US, and it colors states and counties
-            based on how their population voted in the presidential election.</p>
+            <h3>Object-Oriented Projects</h3>
+            <p>Two projects, Purple America and Guitar Hero, from my Object-Oriented programming course.</p>
             <h3>Project Details</h3>
             <ul>
-                <li>The project can be downloaded <a href="../code/oop/Purple.zip">here</a>.</li>
-                <li>To run the project, unzip Purple.zip and type java -jar Purple_America.jar USA-county 2012 into the command line.</li>
-                <li>Individual states can be drawn by typing the same command, except substituting the state's abbreviation instead of USA-county. Other years elections results can also be used by changing 2012 to another year.</li>
+                <li>The projects can be downloaded <a href="/code/oop/OOP.zip">here</a>.</li>
+                <li>Instructions to run the programs can be found in each projects respective folders.</li>
+                <li>Purple America creates a colored map based on voting records from a particular year,
+                and Guitar Hero simulates the sound from plucking a guitar string.</li>
             </ul>
         </div>
 
