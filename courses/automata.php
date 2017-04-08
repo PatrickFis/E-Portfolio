@@ -81,7 +81,6 @@
                 <li>The code for the project can be downloaded <a href="../code/automata.zip">here</a>.</li>
                 <li>The project can be run by compiling the Java files included in the zip folder.
                 Several files ask for user interaction to build a DFA/NFA and then do a specified operation on it.</li>
-                <li>Challenges</li>
             </ul>
         </div>
 

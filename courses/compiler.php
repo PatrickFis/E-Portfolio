@@ -133,9 +133,8 @@
                 <li>The compilation for this project is fairly involved. To compile the project, you must use
                 Flex, Bison, GCC, and make. If all of these tools are installed the program can be compiled
                 by typing "make" (if in a Unix environment), or by typing "make windows" (if using Cygwin for Windows).
-                TODO: Screenshots have been provided showing the results of compiling and running the project on an input file
+                Screenshots have been provided showing the results of compiling and running the project on an input file
                 for conveinence.</li>
-                <li>Challenges</li>
             </ul>
         </div>
 

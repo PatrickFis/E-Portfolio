@@ -83,7 +83,6 @@
                 of Ubuntu was setup running an OSSEC agent to generate reports. The vulnerable server was attacked using Metasploit, and the
                 logs were used to generate reports and graphs depicting the severity of the attack and what level of access was gained from
                 it.</li>
-                <li>Challenges</li>
             </ul>
         </div>
 
