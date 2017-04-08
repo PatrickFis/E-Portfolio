@@ -21,12 +21,13 @@
         <p>Under Construction...</p>
       </div>
     </div> -->
-    <?php
-      include 'home_generator.php';
-     ?>
-    <?php
-      include 'project_randomizer.php';
-     ?>
+    <div class="container">
+      <?php
+        include 'home_generator.php';
+       ?>
+      <?php
+        include 'project_randomizer.php';
+       ?>
    </div>
     <!-- <div class="container-fluid">
       <p>Three sentences for reflection papers:</p>
