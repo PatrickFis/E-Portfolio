@@ -24,6 +24,7 @@
               <li><a href="/courses/numerical.php">Numerical Methods</a></li>
               <li><a href="/courses/operatingsystems.php">Operating Systems</a></li>
               <li><a href="/courses/softwareeng.php">Software Engineering</a><li>
+              <li><a href="/courses/datastruct.php">Data Structures</a><li>
               <!-- <li><a href="/courses/courses.php">Software Engineering</a></li> -->
             </ul>
           </li>
