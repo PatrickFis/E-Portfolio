@@ -46,7 +46,7 @@
             <div class="item active">
               <img src="../pictures/datastruct/avl.png" alt="AVL Tree">
               <div class="carousel-caption">
-                <h3>AVL Tree</h3>
+                <h3 style="color:black;">AVL Tree</h3>
                 <p>Portion of code taken from my AVL tree implementation</p>
               </div>
             </div>
