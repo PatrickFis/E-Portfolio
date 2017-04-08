@@ -11,7 +11,7 @@
   $pictures = array('/pictures/automata/automata.png', '/pictures/compiler/compiler.png', 'http://placehold.it/500x500',
                     '/pictures/infosec/pic1.png', '/pictures/mobile_distributed/mobile.png', '/pictures/numerical/gauss.png',
                     '/pictures/object_oriented/object.png', 'http://placehold.it/500x500', 'http://placehold.it/500x500',
-                    '/pictures/seccdc/group_pic.jpg', 'http://placehold.it/500x500', '/pictures/icpc/acm.jpg');
+                    '/pictures/seccdc/group_pic.jpg', 'http://placehold.it/500x500', '/pictures/icpc/comp.JPG');
 
 
   // Choose three random projects

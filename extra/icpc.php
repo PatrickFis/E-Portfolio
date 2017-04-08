@@ -43,11 +43,21 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
               <div class="item active">
-                <img src="../pictures/icpc/acm.jpg" alt="ACM Logo">
+                <img src="../pictures/icpc/comp.JPG" alt="At the programming competition">
+                <div class="carousel-caption">
+                  <h3>ACM Preliminary Round</h3>
+                </div>
               </div>
 
               <div class="item">
-                <img src="../pictures/icpc/mid_comp.png" alt="At the programming competition">
+                <img src="../pictures/icpc/mid_comp.JPG" alt="At the programming competition">
+                <div class="carousel-caption">
+                  <h3>ACM Preliminary Round</h3>
+                </div>
+              </div>
+
+              <div class="item">
+                <img src="../pictures/icpc/comp2.JPG" alt="At the programming competition">
                 <div class="carousel-caption">
                   <h3>ACM Preliminary Round</h3>
                 </div>
