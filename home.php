@@ -20,28 +20,9 @@
       <p>Under Construction...</p>
     </div>
   </div>
-
-    <div class="container-fluid bg-3 text-center">
-      <h3>Some of my Work</h3><br>
-      <div class="row">
-        <div class="col-sm-3">
-          <p>Compiler Construction</p>
-          <a href="courses/compiler.php"><img src="pictures/compiler/compiler.png" class="img-responsive" style="width:100%" alt="Image"></a>
-        </div>
-        <div class="col-sm-3">
-          <p>Mobile &amp; Distributed Computing</p>
-          <a href="courses/mobile.php"><img src="pictures/mobile_distributed/mobile.png" class="img-responsive" style="width:100%" alt="Image"></a>
-        </div>
-        <div class="col-sm-3">
-          <p>Automata &amp; Formal Language Theory</p>
-          <a href="courses/automata.php"><img src="pictures/automata/automata.png" class="img-responsive" style="width:100%" alt="Image"></a>
-        </div>
-        <div class="col-sm-3">
-          <p>Object-Oriented Programming</p>
-          <a href="courses/object.php"><img src="pictures/object_oriented/object.png" class="img-responsive" style="width:100%" alt="Image"></a>
-        </div>
-      </div>
-    </div><br>
+  <?php
+    include 'project_randomizer.php';
+   ?>
     <!-- <div class="container-fluid">
       <p>Three sentences for reflection papers:</p>
       <p>Academic: I'll write about some of my more difficult classes(like compiler construction).</p>
