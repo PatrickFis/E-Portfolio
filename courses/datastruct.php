@@ -44,7 +44,7 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner" role="listbox">
             <div class="item active">
-              <img src="../pictures/datastruct/avl.png" style="height:1264;width:862;"alt="AVL Tree">
+              <img src="../pictures/datastruct/avl.png" style="height:1264;width:834;" alt="AVL Tree">
               <div class="carousel-caption">
                 <h3>AVL Tree</h3>
                 <p>Portion of code taken from my AVL tree implementation</p>
@@ -52,7 +52,7 @@
             </div>
 
             <div class="item">
-              <img src="../pictures/datastruct/linkedlist.png" alt="Linked List">
+              <img src="../pictures/datastruct/linkedlist.png" style="height:1264;width:834;" alt="Linked List">
               <div class="carousel-caption">
                 <h3>Linked List</h3>
                 <p>Linked List implementation</p>
@@ -60,7 +60,7 @@
             </div>
 
             <div class="item">
-              <img src="../pictures/datastruct/stack.png" alt="Stack">
+              <img src="../pictures/datastruct/stack.png" style="height:1264;width:834;" alt="Stack">
               <div class="carousel-caption">
                 <h3>Stack</h3>
                 <p>A stack implemented with the previous linked list</p>
