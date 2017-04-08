@@ -1,1 +1,0 @@
-This program can be run by typing java -jar Purple_America.jar USA-county 2012 into the command line. Individual states can be drawn by typing the same command, except substituting the state's abbreviation instead of USA-county. Other years elections results can also be used by changing 2012 to another year.
