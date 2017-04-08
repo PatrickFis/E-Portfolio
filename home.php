@@ -14,13 +14,16 @@
   <?php
   include 'navbar.php';
   ?>
-  <div class="container">
+  <!-- <div class="container">
     <div class="jumbotron" >
       <div class="container text-center">
         <h1>Patrick Fischer</h1>
         <p>Under Construction...</p>
       </div>
-    </div>
+    </div> -->
+    <?php
+      include 'home_generator.php';
+     ?>
     <?php
       include 'project_randomizer.php';
      ?>

@@ -146,6 +146,7 @@
     <?php
       include '../project_randomizer.php';
      ?>
+   </div>
   <!-- Footer here, can add this to other pages later. -->
   <!-- <br><br><br><br><br>
   <div class="navbar navbar-default navbar-fixed-bottom">
