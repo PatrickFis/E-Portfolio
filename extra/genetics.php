@@ -51,7 +51,7 @@
               <div class="item">
                 <img src="/pictures/genetics/pending_list.png" alt="Pending List">
                 <div class="carousel-caption">
-                  <h3 style="color:black;">Postion of code from one of the reports I helped re-write</h3>
+                  <h3 style="color:black;">Portion of code from one of the reports I helped re-write</h3>
                   <p style="color:black;">This report let upper management know about cases that needed to be worked on by the lab</p>
                 </div>
               </div>
