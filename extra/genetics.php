@@ -22,8 +22,7 @@
     <!-- Portfolio Item Heading -->
     <div class="row">
         <div class="col-lg-12">
-            <h1 class="page-header">Genetics Associates Internship
-                <small>Description goes here - Change the pictures</small>
+            <h1 class="page-header">Genetics Associates
             </h1>
         </div>
     </div>
@@ -83,9 +82,15 @@
             <h3>Genetics Associates</h3>
             <h3>Details</h3>
             <ul>
-                <li>Worked at x time</li>
-                <li>Add pictures</li>
-                <li>Add descriptions</li>
+                <li>I worked at Genetics Associates as an intern from October 2016 to January 2017.</li>
+                <li>During that time I worked on a variety of projects to assist their IT department.</li>
+                <li>I implemented a version control system to help them track and revert changes
+                to their in-house reporting programs.</li>
+                <li>I helped modify and streamline a number of their reporting programs.</li>
+                <li>I re-implemented many of their reporting programs in Python to allow for easier
+                maintenance.</li>
+                <li>I created a web-viewer for their reports so that employees could access
+                reports on the company intranet.</li>
             </ul>
         </div>
 
