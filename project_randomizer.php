@@ -15,7 +15,7 @@
                     '/extra/hacknashville.php');
   // Contains the pictures used for each project. MUST BE IN THE SAME ORDER AS THE ABOVE ARRAY.
   $pictures = array('/pictures/automata/automata.png', '/pictures/compiler/compiler.png', '/pictures/datastruct/avl.png',
-                    '/pictures/infosec/pic1.png', '/pictures/mobile_distributed/mobile.png', '/pictures/numerical/gauss.png',
+                    '/pictures/infosec/pic1.png', '/pictures/mobile_distributed/10_6.png', '/pictures/numerical/gauss.png',
                     '/pictures/object_oriented/object.png', 'http://placehold.it/500x300', 'http://placehold.it/500x300',
                     '/pictures/seccdc/group_pic.jpg', 'http://placehold.it/500x300', '/pictures/icpc/comp.JPG',
                     '/pictures/hacknashville/hack1.jpg');

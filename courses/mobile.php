@@ -14,42 +14,6 @@
   <?php
   	include '../navbar.php';
   ?>
-    <!-- <div class="container">
-      <div class="page-header">
-        <h1>Patrick Fischer</h1>
-      </div>
-
-      <div class="row">
-          <ul class="nav nav-tabs-no-style nav-stacked col-md-3">
-            <li class="active"><a data-toggle="tab" href="#Tab1">Freshman Year</a></li>
-            <li><a data-toggle="tab" href="#Tab2">Sophomore Year</a></li>
-            <li><a data-toggle="tab" href="#Tab3">Junior Year</a></li>
-            <li><a data-toggle="tab" href="#Tab4">Senior Year</a></li>
-          </ul>
-          <div class="col-md-6">
-            <div class="tab-content">
-              <div id="Tab1" class="tab-pane fade in active">
-                <h3>Freshman Year</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-              </div>
-              <div id="Tab2" class="tab-pane fade">
-                <h3>Sophomore Year</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-              </div>
-              <div id="Tab3" class="tab-pane fade">
-                <h3>Junior Year</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-              </div>
-              <div id="Tab4" class="tab-pane fade">
-                <h3>Senior Year</h3>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div> -->
-
-
       <!-- Testing portfolio item from Github -->
       <!-- Page Content -->
 <div class="container">
@@ -68,18 +32,65 @@
     <div class="row">
 
         <div class="col-md-8">
-            <img class="img-responsive" src="../pictures/mobile_distributed/mobile.png" alt="">
+          <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+              <li data-target="#myCarousel" data-slide-to="1"></li>
+              <li data-target="#myCarousel" data-slide-to="2"></li>
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <img src="/pictures/mobile_distributed/4_11.png" alt="Program that calculates a definite integral">
+                <div class="carousel-caption">
+                  <h3 style="color:black;">Integral Calculator</h3>
+                  <p style="color:black;">Calculates the definite integral of a function</p>
+                </div>
+              </div>
+
+              <div class="item">
+                <img src="/pictures/mobile_distributed/5_9.png" alt="Program that calculates prime numbers using the Sieve of Eratosthenes">
+                <div class="carousel-caption">
+                  <h3 style="color:black;">Sieve of Eratosthenes</h3>
+                  <p style="color:black;">Calculates prime numbers using a sieve</p>
+                </div>
+              </div>
+
+              <div class="item">
+                <img src="/pictures/mobile_distributed/10_6.png" alt="Program that calculates a triple integral">
+                <div class="carousel-caption">
+                  <h3 style="color:black;">Triple Integral Calculator</h3>
+                  <p style="color:black;">Calculates the triple integral of a multivariable function</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Left and right controls -->
+            <!-- <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a> -->
+            </div>
         </div>
 
         <div class="col-md-4">
-            <h3>Project Description</h3>
-            <p>Project info will go here: Will showcase various projects for
-            this independent study.</p>
-            <h3>Project Details</h3>
+            <h3>Distributed Computing Projects</h3>
+            <p>This courses focused on creating parallel and distributed
+            versions of common algorithms using MPI and OpenMP.</p>
+            <h3>Program Details</h3>
             <ul>
-                <li>Code</li>
-                <li>Function</li>
-                <li>Challenges</li>
+                <li>The programs written in this course focused on running standard algorithms,
+                such as those that calculate prime numbers or generate lists of prime numbers,
+                across multiple computers and threads to increase their speed.</li>
+                <li>Some of the programs can be downloaded <a href="/code/mobile_distributed/mobile_programs.zip">here</a>.</li>
+                <li>Compilation instructions should be included with most of the programs.
+                Your system must have MPI installed to compile and run the programs.</li>
             </ul>
         </div>
 
