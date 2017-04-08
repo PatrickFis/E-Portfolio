@@ -44,7 +44,7 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner" role="listbox">
             <div class="item active">
-              <img src="../pictures/datastruct/avl.png" alt="AVL Tree">
+              <img src="../pictures/datastruct/avl.png" style="height:1264;width:862;"alt="AVL Tree">
               <div class="carousel-caption">
                 <h3>AVL Tree</h3>
                 <p>Portion of code taken from my AVL tree implementation</p>
