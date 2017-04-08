@@ -18,7 +18,7 @@
   echo '<div class="container">';
 
   echo '<div class="container">';
-  echo '<img class="img-circle img-responsive pull-right" src="http://placehold.it/500x500">'
+  echo '<img class="img-circle img-responsive pull-right" src="http://placehold.it/500x500">';
   echo '<h2>Test heading<span>Test subheading</span></h2>';
   echo '<p class="lead">Test paragraph</p>';
   echo '</div>';
