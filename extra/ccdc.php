@@ -45,24 +45,24 @@
             <div class="item active">
               <img src="/pictures/seccdc/prelim.jpg" alt="Picture of us after the preliminary round">
               <div class="carousel-caption">
-                <h3 style="color:black;">Preliminary Round</h3>
-                <p style="color:black;">Everyone that participated in the preliminary competition</p>
+                <h3>Preliminary Round</h3>
+                <p>Everyone that participated in the preliminary competition</p>
               </div>
             </div>
 
             <div class="item">
               <img src="/pictures/seccdc/group_pic.jpg" alt="Group picture before we left for Georgia">
               <div class="carousel-caption">
-                <h3 style="color:black;">Group Picture</h3>
-                <p style="color:black;">Right before we drove to Georgia</p>
+                <h3>Group Picture</h3>
+                <p>Right before we drove to Georgia</p>
               </div>
             </div>
 
             <div class="item">
               <img src="/pictures/seccdc/end.jpg" alt="Lipscomb had every service up at the end">
               <div class="carousel-caption">
-                <h3 style="color:black;">Services</h3>
-                <p style="color:black;">Lipscomb had every service up at the end of the competition</p>
+                <h3>Services</h3>
+                <p>Lipscomb had every service up at the end of the competition</p>
               </div>
             </div>
           </div>
