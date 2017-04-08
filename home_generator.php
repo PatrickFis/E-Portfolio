@@ -35,19 +35,19 @@
   echo '<div class="container">';
 
   echo '<div class="container">';
-  echo '<img class="img-circle img-responsive pull-right" src="'.$pictures[$chosenArray[0]].'">';
+  echo '<img class="img-circle img-responsive pull-right" height="500" width="500" src="'.$pictures[$chosenArray[0]].'">';
   echo '<h2>Test heading</h2>';
   echo '<p class="lead">Test paragraph</p>';
   echo '</div>';
 
   echo '<div class="container">';
-  echo '<img class="img-circle img-responsive pull-left" src="'.$pictures[$chosenArray[1]].'">';
+  echo '<img class="img-circle img-responsive pull-left" height="500" width="500" src="'.$pictures[$chosenArray[1]].'">';
   echo '<h2>Test heading</h2>';
   echo '<p class="lead">Test paragraph</p>';
   echo '</div>';
 
   echo '<div class="container">';
-  echo '<img class="img-circle img-responsive pull-right" src="'.$pictures[$chosenArray[2]].'">';
+  echo '<img class="img-circle img-responsive pull-right" height="500" width="500" src="'.$pictures[$chosenArray[2]].'">';
   echo '<h2>Test heading</h2>';
   echo '<p class="lead">Test paragraph</p>';
   echo '</div>';
