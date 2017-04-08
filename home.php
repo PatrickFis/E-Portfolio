@@ -21,10 +21,10 @@
         <p>Under Construction...</p>
       </div>
     </div> -->
-    <div class="container">
-      <?php
-        include 'home_generator.php';
-       ?>
+  <?php
+    include 'home_generator.php';
+   ?>
+   <div class="container">
       <?php
         include 'project_randomizer.php';
        ?>
