@@ -43,21 +43,21 @@
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
               <div class="item active">
-                <img src="/pictures/hacknashville/hack1.JPG" alt="Large shot of the event">
+                <img src="/pictures/hacknashville/hack1.jpg" alt="Large shot of the event">
                 <div class="carousel-caption">
                   <!-- <h3>All of the people at the event</h3> -->
                 </div>
               </div>
 
               <div class="item">
-                <img src="/pictures/hacknashville/hack2.JPG" alt="Shot of one of our tables">
+                <img src="/pictures/hacknashville/hack2.jpg" alt="Shot of one of our tables">
                 <div class="carousel-caption">
                   <!-- <h3>ACM Preliminary Round</h3> -->
                 </div>
               </div>
 
               <div class="item">
-                <img src="/pictures/hacknashville/hack3.JPG" alt="Another shot of one of our tables">
+                <img src="/pictures/hacknashville/hack3.jpg" alt="Another shot of one of our tables">
                 <div class="carousel-caption">
                   <!-- <h3>ACM Preliminary Round</h3> -->
                 </div>
