@@ -1,11 +1,13 @@
 <?php
 
-  // Contains the projects that will be randomly selected and placed at the end of certain pages.
+  // Contains the projects that will be randomly selected to be displayed on
+  // the homepage
   $projects = array('/courses/automata.php', '/courses/compiler.php', '/courses/datastruct.php',
                     '/courses/infosec.php', '/courses/mobile.php', '/courses/numerical.php',
                     '/courses/object.php', '/courses/operatingsystems.php', '/courses/softwareeng.php',
                     '/extra/ccdc.php', '/extra/genetics.php', '/extra/icpc.php');
-  // Contains the pictures used for each project. MUST BE IN THE SAME ORDER AS THE ABOVE ARRAY.
+  // Contains the pictures used for each project. MUST BE IN THE SAME ORDER
+  // AS THE ABOVE ARRAY.
   $pictures = array('/pictures/automata/automata.png', '/pictures/compiler/compiler.png', 'http://placehold.it/500x500',
                     '/pictures/infosec/pic1.png', '/pictures/mobile_distributed/mobile.png', '/pictures/numerical/gauss.png',
                     '/pictures/object_oriented/object.png', 'http://placehold.it/500x500', 'http://placehold.it/500x500',
