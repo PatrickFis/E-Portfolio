@@ -36,6 +36,7 @@
                 <li><a href="/extra/icpc.php">ICPC</a></li>
                 <li><a href="/extra/ccdc.php">SECCDC</a></li>
                 <li><a href="/extra/genetics.php">Genetics Associates</a></li>
+                <li><a href="/extra/hacknashville.php">Hack Nashville 6</a></li>
               </ul>
           </li>
           <li class="dropdown">
