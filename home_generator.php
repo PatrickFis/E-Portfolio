@@ -36,8 +36,8 @@
 
   echo '<div class="container">';
   echo '<a href="'.$projects[$chosenArray[0]].'"><img class="img-circle img-responsive pull-right" height="500" width="500" src="'.$pictures[$chosenArray[0]].'"></a>';
-  echo '<h2>Test heading</h2>';
-  echo '<p class="lead">Test paragraph</p>';
+  echo '<h2>Welcome to my Patrick Fischer\'s E-Portfolio</h2>';
+  echo '<p class="lead">Click on any of the images to learn more about some of my projects</p>';
   echo '</div>';
 
   echo '<div class="container">';

@@ -21,6 +21,8 @@
         <p>Under Construction...</p>
       </div>
     </div> -->
+  
+  <!-- Idea inspired by https://startbootstrap.com/template-overviews/one-page-wonder/ -->
   <?php
     include 'home_generator.php';
    ?>
