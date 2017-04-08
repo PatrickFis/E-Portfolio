@@ -23,7 +23,6 @@
     <div class="row">
         <div class="col-lg-12">
             <h1 class="page-header">ACM ICPC Programming Competition
-                <small>Description goes here - Change the pictures</small>
             </h1>
         </div>
     </div>
@@ -81,9 +80,11 @@
             <h3>ACM ICPC Programming Competition</h3>
             <h3>Details</h3>
             <ul>
-                <li>Competed x years</li>
-                <li>Add more pictures</li>
-                <li>Add descriptions</li>
+                <li>Competed in the 2014 and 2016 competitions</li>
+                <li>The ACM International Collegiate Programming Competition (ICPC) provides
+                real world programming problems to students. These problems range from
+                fairly simple tasks to extremely difficult problems requiring a variety
+                of algorithms and creative thinking to solve.</li>
             </ul>
         </div>
 
