@@ -35,19 +35,19 @@
   echo '<div class="container">';
 
   echo '<div class="container">';
-  echo '<a href="'.$projects[$chosenArray[0]].'>"<img class="img-circle img-responsive pull-right" height="500" width="500" src="'.$pictures[$chosenArray[0]].'"></a>';
+  echo '<a href="'.$projects[$chosenArray[0]].'"><img class="img-circle img-responsive pull-right" height="500" width="500" src="'.$pictures[$chosenArray[0]].'"></a>';
   echo '<h2>Test heading</h2>';
   echo '<p class="lead">Test paragraph</p>';
   echo '</div>';
 
   echo '<div class="container">';
-  echo '<a href="'.$projects[$chosenArray[1]].'>"<img class="img-circle img-responsive pull-left" height="500" width="500" src="'.$pictures[$chosenArray[1]].'"></a>';
+  echo '<a href="'.$projects[$chosenArray[1]].'"><img class="img-circle img-responsive pull-left" height="500" width="500" src="'.$pictures[$chosenArray[1]].'"></a>';
   echo '<h2>Test heading</h2>';
   echo '<p class="lead">Test paragraph</p>';
   echo '</div>';
 
   echo '<div class="container">';
-  echo '<a href="'.$projects[$chosenArray[2]].'>"<img class="img-circle img-responsive pull-right" height="500" width="500" src="'.$pictures[$chosenArray[2]].'"></a>';
+  echo '<a href="'.$projects[$chosenArray[2]].'"><img class="img-circle img-responsive pull-right" height="500" width="500" src="'.$pictures[$chosenArray[2]].'"></a>';
   echo '<h2>Test heading</h2>';
   echo '<p class="lead">Test paragraph</p>';
   echo '</div>';
