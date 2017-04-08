@@ -32,7 +32,51 @@
     <div class="row">
 
       <div class="col-md-8">
-          <img class="img-responsive" src="../pictures/seccdc/group_pic.jpg" alt="">
+        <div id="myCarousel" class="carousel slide" data-ride="carousel">
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+          </ol>
+
+          <!-- Wrapper for slides -->
+          <div class="carousel-inner" role="listbox">
+            <div class="item active">
+              <img src="/pictures/seccdc/prelim.jpg" alt="Picture of us after the preliminary round">
+              <div class="carousel-caption">
+                <h3 style="color:black;">Preliminary Round</h3>
+                <p style="color:black;">Everyone that participated in the preliminary competition</p>
+              </div>
+            </div>
+
+            <div class="item">
+              <img src="/pictures/seccdc/group_pic.jpg" alt="Group picture before we left for Georgia">
+              <div class="carousel-caption">
+                <h3 style="color:black;">Group Picture</h3>
+                <p style="color:black;">Right before we drove to Georgia</p>
+              </div>
+            </div>
+
+            <div class="item">
+              <img src="/pictures/seccdc/end.jpg" alt="Lipscomb had every service up at the end">
+              <div class="carousel-caption">
+                <h3 style="color:black;">Services</h3>
+                <p style="color:black;">Lipscomb had every service up at the end of the competition</p>
+              </div>
+            </div>
+          </div>
+
+          <!-- Left and right controls -->
+          <!-- <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+            <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+          </a>
+          <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+            <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+          </a> -->
+          </div>
       </div>
 
         <div class="col-md-4">
