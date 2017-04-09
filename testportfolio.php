@@ -36,8 +36,8 @@
     <style>
       .imgWrap {
       position: relative;
-      height: 200px;
-      width: 257px;
+      /*height: 200px;*/
+      /*width: 257px;*/
       }
       .imgDescription {
       position: absolute;
