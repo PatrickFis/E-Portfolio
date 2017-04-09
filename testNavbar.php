@@ -97,7 +97,7 @@
     </nav>
 
     <header>
-        <div class="header-content hidden">
+        <div class="header-content">
 
         </div>
     </header>
