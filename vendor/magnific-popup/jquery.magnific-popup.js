@@ -1144,7 +1144,7 @@ $.magnificPopup.registerModule('image', {
 		cursor: 'mfp-zoom-out-cur',
 		titleSrc: 'title',
 		verticalFit: true,
-		tError: '<a href="%url%">The image</a> coulsdfsd not be loaded.'
+		tError: '<a href="%url%">The image</a> could not be loaded.'
 	},
 
 	proto: {
