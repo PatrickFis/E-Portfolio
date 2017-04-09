@@ -26,6 +26,7 @@
   <?php
     include 'home_generator.php';
    ?>
+   
     <!-- <div class="container-fluid">
       <p>Three sentences for reflection papers:</p>
       <p>Academic: I'll write about some of my more difficult classes(like compiler construction).</p>
