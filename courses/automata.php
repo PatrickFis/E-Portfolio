@@ -108,8 +108,10 @@
         </div>
 
         <div class="col-md-4">
-            <h3>Finite Automata Project</h3>
-            <p>This project involved creating a data structure that modeled a Nondeterministic and Determinitistic Finite Automaton(NFA &amp; DFA).
+            <h3>Automata &amp; Formal Language Theory</h3>
+            <p>This course introduced me to concepts form automata theory and formal languages. These include
+            finite automata, regular expressions, formal language theory, and pushdown automata. The course included
+            a semester long project which involved creating a data structure that modeled a Nondeterministic and Determinitistic Finite Automaton(NFA &amp; DFA).
             The end result was a program that modeled the data structure by implementing a number of methods that modeled
             the various operations(union, epsilon closure, determining regular expressions).</p>
             <h3>Project Details</h3>
