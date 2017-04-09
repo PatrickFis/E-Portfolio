@@ -38,7 +38,6 @@
       position: relative;
       /*height: 200px;*/
       /*width: 257px;*/
-      /*max-width:600px;*/
       }
       .imgDescription {
         color: white;
@@ -48,7 +47,7 @@
         position: absolute;
         bottom: 0;
         text-align: center;
-        max-width: 100%;
+        width: 100%;
         height: 100%;
         -webkit-transition: all 0.35s;
         -moz-transition: all 0.35s;
