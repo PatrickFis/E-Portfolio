@@ -25,21 +25,6 @@
     <!-- Theme CSS -->
     <link href="css/creative.min.css" rel="stylesheet">
 
-    <style>
-    header {
-      position: relative;
-      width: 100%;
-      min-height: auto;
-      -webkit-background-size: cover;
-      -moz-background-size: cover;
-      background-size: cover;
-      -o-background-size: cover;
-      background-position: center;
-      background-image: url('../img/header.jpg');
-      text-align: center;
-      color: white;
-    }
-    </style>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -106,6 +91,43 @@
             </div>
         </div>
     </header>
+
+    <section class="bg-primary" id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Introductory Information</h2>
+                    <hr class="light">
+                    <p class="text-faded">Info about me</p>
+                    <a href="#portfolio" class="page-scroll btn btn-default btn-xl sr-button">Portfolio</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class = "no-padding" id="portfolio">
+      <?php
+        include 'hover_generator.php';
+       ?>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h2 class="section-heading">Contact Me</h2>
+                    <hr class="primary">
+                    <p>Please contact me on LinkedIn</p>
+                </div>
+                <div class="col-lg-4 col-lg-offset-4 text-center">
+                    <div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="patrick-fischer-32a219a1"><a class="LI-simple-link" href='https://www.linkedin.com/in/patrick-fischer-32a219a1?trk=profile-badge'>Patrick Fischer</a></div>
+                </div>
+                <!-- <div class="col-lg-4 text-center">
+                    <i class="fa fa-envelope-o fa-3x sr-contact"></i>
+                    <p><a href="mailto:your-email@your-domain.com">feedback@startbootstrap.com</a></p>
+                </div> -->
+            </div>
+        </div>
+    </section>
 
     <!-- jQuery -->
     <script src="vendor/jquery/jquery.min.js"></script>
