@@ -24,7 +24,7 @@
 
     <!-- Theme CSS -->
     <link href="css/creative.min.css" rel="stylesheet">
-    
+
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -69,9 +69,28 @@
                         <li><a href="/courses/infosec.php">Information Security</a></li>
                         <li><a href="/courses/numerical.php">Numerical Methods</a></li>
                         <li><a href="/courses/operatingsystems.php">Operating Systems</a></li>
-                        <li><a href="/courses/softwareeng.php">Software Engineering</a><li>
-                        <li><a href="/courses/datastruct.php">Data Structures</a><li>
-                        <!-- <li><a href="/courses/courses.php">Software Engineering</a></li> -->
+                        <li><a href="/courses/softwareeng.php">Software Engineering</a></li>
+                        <li><a href="/courses/datastruct.php">Data Structures</a></li>
+                      </ul>
+                    </li>
+                    <li class="dropdown">
+                      <a class ="dropdown-toggle" data-toggle="dropdown" href="#">Extracurriculars
+                        <span class="caret"></a>
+                        <ul class="dropdown-menu">
+                          <li><a href="/extra/icpc.php">ICPC</a></li>
+                          <li><a href="/extra/ccdc.php">SECCDC</a></li>
+                          <li><a href="/extra/genetics.php">Genetics Associates</a></li>
+                          <li><a href="/extra/hacknashville.php">Hack Nashville 6</a></li>
+                        </ul>
+                    </li>
+                    <li class="dropdown">
+                      <a class="dropdown-toggle" data-toggle="dropdown" href="#">Documents
+                        <span class="caret"></a>
+                      <ul class="dropdown-menu">
+                        <li><a href="/docs/Resume.pdf">Resume</a></li>
+                        <li><a href="/docs/AcademicReflectionRevised.docx">Education Reflection</a></li>
+                        <li><a href="/docs/ServiceReflectionOutline.docx">Service Reflection</a></li>
+                        <li><a href="/docs/WorkReflection.docx">Work Reflection</a></li>
                       </ul>
                     </li>
                 </ul>
