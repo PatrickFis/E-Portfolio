@@ -89,9 +89,10 @@
                         <span class="caret"></a>
                       <ul class="dropdown-menu">
                         <li><a href="/docs/Resume.pdf">Resume</a></li>
-                        <li><a href="/docs/AcademicReflectionRevised.docx">Education Reflection</a></li>
+                        <li><a href="/docs/AcademicReflection.pdf">Education Reflection</a></li>
+                        <li><a href="/docs/EthicsReflection.pdf">Ethics Reflection</a></li>
                         <li><a href="/docs/ServiceReflectionOutline.docx">Service Reflection</a></li>
-                        <li><a href="/docs/WorkReflection.docx">Work Reflection</a></li>
+                        <li><a href="/docs/WorkReflection.pdf">Work Reflection</a></li>
                       </ul>
                     </li>
                 </ul>
