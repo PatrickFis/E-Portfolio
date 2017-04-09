@@ -12,7 +12,7 @@
   $pictures = array('/pictures/automata/automata_tn.png', '/pictures/compiler/compiler_tn.png', '/pictures/datastruct/avl_tn.png',
                     '/pictures/infosec/pic1_tn.png', '/pictures/mobile_distributed/4_11_tn.png', '/pictures/numerical/gauss_tn.png',
                     '/pictures/object_oriented/object_tn.png', '/pictures/operatingsystems/simple_shell_tn.png', '/pictures/softwareeng/homepage_tn.png',
-                    '/pictures/seccdc/prelim_tn.jpg', '/pictures/genetics/report_viewer_tn.png', '/pictures/icpc/comp_tn.JPG',
+                    '/pictures/seccdc/prelim_tn.jpg', '/pictures/genetics/report_viewer_tn.png', '/pictures/icpc/comp_tn.jpg',
                     '/pictures/hacknashville/hack1_tn.jpg');
   $descriptions = array('Automata &amp; Formal Language Theory', 'Compiler Construction', 'Data Structures &amp; Algorithms',
                         'Fundamentals of Information Security', 'Mobile &amp; Distributed Computing', 'Numerical Methods',
