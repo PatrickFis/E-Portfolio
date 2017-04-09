@@ -56,6 +56,10 @@
   echo '<p class="lead">Test paragraph</p>';
   echo '</div>';
 
+  echo '<div class="container">';
+  echo '<a href="https://www.linkedin.com/in/patrick-fischer-32a219a1/"><img class="img-circle img-response pull-left" height="500" width="500" src="/pictures/linkedin/linkedin.png"></a>';
+  echo '<h2>Contact Information</h2>';
+  echo '<p class="lead">Please contact me on LinkedIn</p>';
   echo '</div>';
 
 
