@@ -38,7 +38,7 @@
       position: relative;
       /*height: 200px;*/
       /*width: 257px;*/
-      max-width:600px;
+      /*max-width:600px;*/
       }
       .imgDescription {
         color: white;
