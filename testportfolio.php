@@ -54,6 +54,7 @@
         transition: all 0.35s;
       }
       .imgWrap:hover .imgDescription {
+        visibility: visible;
         width: 100%;
         text-align: center;
         position: absolute;
