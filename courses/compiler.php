@@ -76,9 +76,14 @@
   <?php
   	include '../new_navbar.php';
   ?>
-      <!-- Testing portfolio item from Github -->
-      <!-- Page Content -->
-<div class="container" style="margin-top:30px;">
+    <!-- Testing portfolio item from Github -->
+    <!-- Page Content -->
+    <div class="hidden-lg hidden-md visible-sm visible-xs">
+      <br/>
+      <br/>
+      <br/>
+    </div>
+    <div class="container" style="margin-top:10px;">
 
     <!-- Portfolio Item Heading -->
     <div class="row">
