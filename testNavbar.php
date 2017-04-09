@@ -24,6 +24,52 @@
 
     <!-- Theme CSS -->
     <!-- <link href="css/creative.css" rel="stylesheet"> -->
+    <style>
+    .navbar-default {
+      background-color: white;
+      border-color: rgba(34, 34, 34, 0.05);
+      font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+      -webkit-transition: all 0.35s;
+      -moz-transition: all 0.35s;
+      transition: all 0.35s;
+    }
+    .navbar-default .navbar-header .navbar-brand {
+      color: #F05F40;
+      font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+      font-weight: 700;
+      text-transform: uppercase;
+    }
+    .navbar-default .navbar-header .navbar-brand:hover,
+    .navbar-default .navbar-header .navbar-brand:focus {
+      color: #eb3812;
+    }
+    .navbar-default .navbar-header .navbar-toggle {
+      font-weight: 700;
+      font-size: 12px;
+      color: #222222;
+      text-transform: uppercase;
+    }
+    .navbar-default .nav > li > a,
+    .navbar-default .nav > li > a:focus {
+      text-transform: uppercase;
+      font-weight: 700;
+      font-size: 13px;
+      color: #222222;
+    }
+    .navbar-default .nav > li > a:hover,
+    .navbar-default .nav > li > a:focus:hover {
+      color: #F05F40;
+    }
+    .navbar-default .nav > li.active > a,
+    .navbar-default .nav > li.active > a:focus {
+      color: #F05F40 !important;
+      background-color: transparent;
+    }
+    .navbar-default .nav > li.active > a:hover,
+    .navbar-default .nav > li.active > a:focus:hover {
+      background-color: transparent;
+    }
+    </style>
 
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
