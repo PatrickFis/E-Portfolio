@@ -89,7 +89,6 @@
     <div class="row">
         <div class="col-lg-12">
             <h1 class="page-header">Compiler Construction
-                <small>Semester Project</small>
             </h1>
         </div>
     </div>
@@ -156,8 +155,11 @@
         </div>
 
         <div class="col-md-4">
-            <h3>SLIC Compiler</h3>
-            <p>This program will compile programs written in SLIC to GSTAL.</p>
+            <h3>Compiler Construction</h3>
+            <p>This course introduced me to the theory and design techniques used in compiler construction. The topics
+            covered included lexical analysis, parsing, grammars, semantic analysis, code generation, and
+            optimization. This course involved a semester long project that required me to implement a compiler that
+            to compile SLIC programs into GSTAL programs.</p>
             <h3>Project Details</h3>
             <ul>
                 <li>The project can be downloaded <a href="../code/compiler/Compiler.zip">here</a>.</li>
