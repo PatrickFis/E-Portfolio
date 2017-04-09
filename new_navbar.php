@@ -12,7 +12,7 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a class="page-scroll" href="testportfolio.php#about">About</a>
+                    <a class="page-scroll" href="/testportfolio.php#about">About</a>
                 </li>
                 <li>
                     <a class="page-scroll" href="#portfolio">Portfolio</a>
