@@ -12,13 +12,13 @@
         <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
             <ul class="nav navbar-nav navbar-right">
                 <li>
-                    <a class="page-scroll" href="/testportfolio.php#about">About</a>
+                    <a class="page-scroll" href="/home.php#about">About</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#portfolio">Portfolio</a>
+                    <a class="page-scroll" href="/home.php#portfolio">Portfolio</a>
                 </li>
                 <li>
-                    <a class="page-scroll" href="#contact">Contact</a>
+                    <a class="page-scroll" href="/home.php#contact">Contact</a>
                 </li>
                 <li class="dropdown">
                   <a class="dropdown-toggle" data-toggle="dropdown" href="#">Courses
