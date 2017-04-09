@@ -59,7 +59,7 @@
               </div>
 
               <div class="item">
-                <img src="../pictures/object_oriented/guitar.png" alt="Guitar Hero Code">
+                <img src="/pictures/object_oriented/guitar.png" alt="Guitar Hero Code">
                 <div class="carousel-caption">
                   <h3 style="color:black;">Guitar Hero project</h3>
                   <p style="color:black;">Simulates the sound of plucking a guitar string</p>

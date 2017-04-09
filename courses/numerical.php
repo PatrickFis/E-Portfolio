@@ -45,7 +45,7 @@
           <!-- Wrapper for slides -->
           <div class="carousel-inner" role="listbox">
             <div class="item active">
-              <img src="../pictures/numerical/gauss.png" alt="Portion of code for Gaussian Elimination">
+              <img src="/pictures/numerical/gauss.png" alt="Portion of code for Gaussian Elimination">
               <div class="carousel-caption">
                 <h3>Gaussian Elimination</h3>
                 <p>Part of the code used for Gaussian Elimination</p>
@@ -53,7 +53,7 @@
             </div>
 
             <div class="item">
-              <img src="../pictures/numerical/newton.png" alt="Newton Interpolation Polynomial">
+              <img src="/pictures/numerical/newton.png" alt="Newton Interpolation Polynomial">
               <div class="carousel-caption">
                 <h3>Newtom Interpolation</h3>
                 <p>Calculates an interpolation polynomial to estimate a function</p>
@@ -61,7 +61,7 @@
             </div>
 
             <div class="item">
-              <img src="../pictures/numerical/spline.png" alt="Cubic Spline Function">
+              <img src="/pictures/numerical/spline.png" alt="Cubic Spline Function">
               <div class="carousel-caption">
                 <h3>Cubic Spline</h3>
                 <p>Calculates the coefficients of a cubic spline function</p>
