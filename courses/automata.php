@@ -93,7 +93,7 @@
 
         <div class="col-md-4">
             <h3>Finite Automata Project</h3>
-            <p>This project involved creating a data structure that modeled a Nondeterministic and Determinitistic Finite Automaton(NFA &amp;DFA).
+            <p>This project involved creating a data structure that modeled a Nondeterministic and Determinitistic Finite Automaton(NFA &amp; DFA).
             The end result was a program that modeled the data structure by implementing a number of methods that modeled
             the various operations(union, epsilon closure, determining regular expressions).</p>
             <h3>Project Details</h3>
