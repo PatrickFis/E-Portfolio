@@ -138,7 +138,7 @@
                     <p>Please contact me on LinkedIn</p>
                 </div>
                 <style>
-                  LI-col LI-header {
+                  .LI-col .LI-header {
                     background-color: black;
                   }
                 </style>
