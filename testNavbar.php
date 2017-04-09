@@ -81,9 +81,9 @@
         <!-- /.container-fluid -->
     </nav>
 
-    <header>
+    <header class="hidden">
         <div class="header-content hidden">
-            
+
         </div>
     </header>
 
