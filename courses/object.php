@@ -153,10 +153,13 @@
         </div>
 
         <div class="col-md-4">
-            <h3>Object-Oriented Projects</h3>
-            <p>Two projects, Purple America and Guitar Hero, from my Object-Oriented programming course.</p>
+            <h3>Object-Oriented Programming</h3>
+            <p>This course served as an introduction to object-oriented programming techniques such as
+            such as abstraction, inheritance, polymorphism, dynamic data structures, and recursion.
+            This course involved a large number of projects.</p>
             <h3>Project Details</h3>
             <ul>
+                <li>Two fairly interesting projects are shown here.</li>
                 <li>The projects can be downloaded <a href="/code/oop/OOP.zip">here</a>.</li>
                 <li>Instructions to run the programs can be found in each projects respective folders.</li>
                 <li>Purple America creates a colored map based on voting records from a particular year,
