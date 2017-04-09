@@ -40,16 +40,18 @@
       /*width: 257px;*/
       }
       .imgDescription {
-      position: absolute;
-      top: 0;
-      bottom: 0;
-      left: 0;
-      right: 0;
-      background: rgba(255, 255, 255, 0.00);
-      color: black;
-      visibility: hidden;
-      opacity: 0;
-          -webkit-transition: visibility opacity 0.2s;
+        color: white;
+        opacity: 0;
+        display: block;
+        background: rgba(240, 95, 64, 0.9);
+        position: absolute;
+        bottom: 0;
+        text-align: center;
+        width: 100%;
+        height: 100%;
+        -webkit-transition: all 0.35s;
+        -moz-transition: all 0.35s;
+        transition: all 0.35s;
       }
       .imgWrap:hover .imgDescription {
       visibility: visible;
