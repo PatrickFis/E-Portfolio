@@ -67,6 +67,7 @@
   }
   @media (min-width: 768px) {
     .navbar-default {
+      background-color: transparent;
       border-color: rgba(255, 255, 255, 0.3);
     }
     .navbar-default .navbar-header .navbar-brand {
