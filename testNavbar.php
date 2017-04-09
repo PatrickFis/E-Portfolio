@@ -24,7 +24,20 @@
 
     <!-- Theme CSS -->
     <link href="css/creative.min.css" rel="stylesheet">
-
+    <style>
+    header {
+      position: relative;
+      width: 100%;
+      min-height: auto;
+      -webkit-background-size: cover;
+      -moz-background-size: cover;
+      background-size: cover;
+      -o-background-size: cover;
+      background-position: center;
+      text-align: center;
+      color: white;
+    }
+    </style>
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -81,7 +94,7 @@
         <!-- /.container-fluid -->
     </nav>
 
-    <header class="hidden">
+    <header>
         <div class="header-content hidden">
 
         </div>
