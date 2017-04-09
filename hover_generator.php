@@ -55,7 +55,7 @@
   echo '<img src="'.$pictures[$chosenArray[0]].'" class="img-responsive">';
   echo '<div class="portfolio-box-caption">';
   echo '<div class="portfolio-box-caption-content">';
-  echo '<div class="project-category text-faded">TEST</div>';
+  echo '<div class="project-category text-faded">'.$descriptions[$chosenArray[0]].'</div>';
   echo '</div>';
   echo '</div>';
   echo '</a>'; // link
