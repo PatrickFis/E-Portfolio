@@ -152,8 +152,8 @@
         </div>
 
         <div class="col-md-4">
-            <h3>Distributed Computing Projects</h3>
-            <p>This courses focused on creating parallel and distributed
+            <h3>Mobile &amp; Distributed Computing</h3>
+            <p>This independent study focused on creating parallel and distributed
             versions of common algorithms using MPI and OpenMP.</p>
             <h3>Program Details</h3>
             <ul>
