@@ -163,9 +163,6 @@
 
     <!-- LinkedIn -->
     <script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>
-    <script>
-    $('body').on('touchstart.dropdown', '.dropdown-menu', function (e) { e.stopPropagation(); });
-    </script>
 </body>
 
 </html>
