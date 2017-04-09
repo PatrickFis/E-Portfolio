@@ -119,7 +119,7 @@
       <div class="row">
         <div class="col-lg-4 col-sm-6">
           <div class="imgWrap">
-            <a href="/courses/automata.php">
+            <a href="/courses/automata.php" class="imgWrap">
               <img src="/pictures/automata/automata.png" class="img-responsive">
               <p class="imgDescription">Automata &amp; Formal Language Theory</p>
             </a>
