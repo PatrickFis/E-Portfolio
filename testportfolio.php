@@ -36,9 +36,6 @@
     <style>
       .imgWrap {
       position: relative;
-      display: block;
-      margin: 0 auto;
-      max-width: 500px;
       /*height: 200px;*/
       /*width: 257px;*/
       }
@@ -57,8 +54,9 @@
         transition: all 0.35s;
       }
       .imgWrap:hover .imgDescription {
-      visibility: visible;
-      opacity: 1;
+        text-align: center;
+        visibility: visible;
+        opacity: 1;
       }
       .imgWrap a:hover {
         background-color: transparent; text-decoration: none;
