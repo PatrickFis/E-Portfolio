@@ -41,10 +41,22 @@
 
   // HTML for the projects
   for($i = 0; $i < count($chosenArray); $i++) {
+    // echo '<div class="col-sm-3 col-xs-6">';
+    // echo '<a href="'.$projects[$chosenArray[$i]].'">';
+    // echo '<img class="img-responsive portfolio-item" style="height:200px;width:250px;" src="'.$pictures[$chosenArray[$i]].'" alt="">';
+    // echo '</a>';
+    // echo '</div>';
     echo '<div class="col-sm-3 col-xs-6">';
-    echo '<a href="'.$projects[$chosenArray[$i]].'">';
-    echo '<img class="img-responsive portfolio-item" style="height:200px;width:250px;" src="'.$pictures[$chosenArray[$i]].'" alt="">';
-    echo '</a>';
+    echo '<div class-"portfolio-box">';
+    echo '<a href="'.$projects[$chosenArray[$j]].'" class="portfolio-box">';
+    echo '<img src="'.$pictures[$chosenArray[$j]].'" class="img-responsive" style="height:200px;width:250px;">';
+    echo '<div class="portfolio-box-caption">';
+    echo '<div class="portfolio-box-caption-content">';
+    echo '<div class="project-category text-faded">'.$descriptions[$chosenArray[$j]].'</div>';
+    echo '</div>';
+    echo '</div>';
+    echo '</a>'; // link
+    echo '</div>';
     echo '</div>';
   }
   echo '</div>';
