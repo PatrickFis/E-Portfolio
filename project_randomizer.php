@@ -19,6 +19,11 @@
                     '/pictures/object_oriented/object.png', '/pictures/operatingsystems/simple_shell.png', '/pictures/softwareeng/homepage.png',
                     '/pictures/seccdc/group_pic.jpg', '/pictures/genetics/report_viewer.png', '/pictures/icpc/comp.JPG',
                     '/pictures/hacknashville/hack1.jpg', '/pictures/dbms/q5.png', '/pictures/design/mergesort.png');
+  $descriptions = array('Automata &amp; Formal Language Theory', 'Compiler Construction', 'Data Structures &amp; Algorithms',
+                        'Fundamentals of Information Security', 'Mobile &amp; Distributed Computing', 'Numerical Methods',
+                        'Object-Oriented Programming', 'Operating Systems', 'Software Engineering',
+                        'SECCDC', 'Genetics Associates', 'ACM ICPC',
+                        'Hack Nashville 6', 'Database Management Systems', 'Design &amp; Analysis of Algorithms');
 
   // Choose four random projects
   $chosenArray = array();
