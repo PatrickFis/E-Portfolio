@@ -12,13 +12,13 @@
                     '/courses/infosec.php', '/courses/mobile.php', '/courses/numerical.php',
                     '/courses/object.php', '/courses/operatingsystems.php', '/courses/softwareeng.php',
                     '/extra/ccdc.php', '/extra/genetics.php', '/extra/icpc.php',
-                    '/extra/hacknashville.php');
+                    '/extra/hacknashville.php', '/courses/dbms.php');
   // Contains the pictures used for each project. MUST BE IN THE SAME ORDER AS THE ABOVE ARRAY.
   $pictures = array('/pictures/automata/automata.png', '/pictures/compiler/compiler.png', '/pictures/datastruct/avl.png',
                     '/pictures/infosec/pic1.png', '/pictures/mobile_distributed/10_6.png', '/pictures/numerical/gauss.png',
                     '/pictures/object_oriented/object.png', '/pictures/operatingsystems/simple_shell.png', '/pictures/softwareeng/homepage.png',
                     '/pictures/seccdc/group_pic.jpg', '/pictures/genetics/report_viewer.png', '/pictures/icpc/comp.JPG',
-                    '/pictures/hacknashville/hack1.jpg');
+                    '/pictures/hacknashville/hack1.jpg', '/pictures/dbms/q5.png');
 
   // Choose four random projects
   $chosenArray = array();

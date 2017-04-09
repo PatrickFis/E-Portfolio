@@ -6,19 +6,19 @@
                     '/courses/infosec.php', '/courses/mobile.php', '/courses/numerical.php',
                     '/courses/object.php', '/courses/operatingsystems.php', '/courses/softwareeng.php',
                     '/extra/ccdc.php', '/extra/genetics.php', '/extra/icpc.php',
-                    '/extra/hacknashville.php');
+                    '/extra/hacknashville.php', '/courses/dbms.php');
   // Contains the pictures used for each project. MUST BE IN THE SAME ORDER
   // AS THE ABOVE ARRAY.
   $pictures = array('/pictures/automata/automata_tn.png', '/pictures/compiler/compiler_tn.png', '/pictures/datastruct/avl_tn.png',
                     '/pictures/infosec/pic1_tn.png', '/pictures/mobile_distributed/4_11_tn.png', '/pictures/numerical/gauss_tn.png',
                     '/pictures/object_oriented/object_tn.png', '/pictures/operatingsystems/simple_shell_tn.png', '/pictures/softwareeng/homepage_tn.png',
                     '/pictures/seccdc/prelim_tn.jpg', '/pictures/genetics/report_viewer_tn.png', '/pictures/icpc/comp_tn.jpg',
-                    '/pictures/hacknashville/hack1_tn.jpg');
+                    '/pictures/hacknashville/hack1_tn.jpg', '/pictures/dbms/q5_tn.png');
   $descriptions = array('Automata &amp; Formal Language Theory', 'Compiler Construction', 'Data Structures &amp; Algorithms',
                         'Fundamentals of Information Security', 'Mobile &amp; Distributed Computing', 'Numerical Methods',
                         'Object-Oriented Programming', 'Operating Systems', 'Software Engineering',
                         'SECCDC', 'Genetics Associates', 'ACM ICPC',
-                        'Hack Nashville 6');
+                        'Hack Nashville 6', 'Database Management Systems');
 
   // Choose six random projects
   $chosenArray = array();

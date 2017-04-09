@@ -70,6 +70,7 @@
                         <li><a href="/courses/operatingsystems.php">Operating Systems</a></li>
                         <li><a href="/courses/softwareeng.php">Software Engineering</a></li>
                         <li><a href="/courses/datastruct.php">Data Structures</a></li>
+                        <li><a href="/courses/dbms.php">Database Management Systems</a></li>
                       </ul>
                     </li>
                     <li class="dropdown">
