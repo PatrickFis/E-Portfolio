@@ -47,7 +47,7 @@
         position: absolute;
         bottom: 0;
         text-align: center;
-        width: 100%;
+        max-width: 500px;
         height: 100%;
         -webkit-transition: all 0.35s;
         -moz-transition: all 0.35s;
