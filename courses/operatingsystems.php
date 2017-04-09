@@ -153,12 +153,12 @@
 
         <div class="col-md-4">
             <h3>Operating Systems</h3>
-            <h3>Details</h3>
+            <p>This course focused on introducing operating system concepts such as
+            scheduling algorithms, process management, deadlocks, paging
+            and segmentation, files and protection, and process
+            coordination and communication.</p>
+            <h3>Project Details</h3>
             <ul>
-                <li>This course focused on introducing operating system concepts such as
-                scheduling algorithms, process management, deadlocks, paging
-                and segmentation, files and protection, and process
-                coordination and communication.</li>
                 <li>A number of projects were assigned in this course, with some of the
                 more interesting ones being shown on the left.</li>
                 <li>These projects included creating a program that emulates a Linux
