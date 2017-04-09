@@ -59,7 +59,7 @@
                         <a class="page-scroll" href="#contact">Contact</a>
                     </li>
                     <li class="dropdown">
-                      <a class="dropdown-toggle" data-toggle="dropdown" href="#">Courses
+                      <a class="dropdown-toggle" data-toggle="dropdown" href="#contact">Courses
                       <span class="caret"></span></a>
                       <ul class="dropdown-menu">
                         <li><a href="/courses/object.php">Object-Oriented Programming</a></li>
