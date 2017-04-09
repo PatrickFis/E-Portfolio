@@ -21,16 +21,11 @@
         <p>Under Construction...</p>
       </div>
     </div> -->
-  
+
   <!-- Idea inspired by https://startbootstrap.com/template-overviews/one-page-wonder/ -->
   <?php
     include 'home_generator.php';
    ?>
-   <div class="container">
-      <?php
-        include 'project_randomizer.php';
-       ?>
-   </div>
     <!-- <div class="container-fluid">
       <p>Three sentences for reflection papers:</p>
       <p>Academic: I'll write about some of my more difficult classes(like compiler construction).</p>
