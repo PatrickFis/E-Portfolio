@@ -167,11 +167,11 @@
         <!-- /.container-fluid -->
     </nav>
 
-    <header>
+    <!-- <header>
         <div class="header-content hidden">
 
         </div>
-    </header>
+    </header> -->
 
     <!-- jQuery -->
     <script src="vendor/jquery/jquery.min.js"></script>
