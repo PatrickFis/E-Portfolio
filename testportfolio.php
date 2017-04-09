@@ -91,7 +91,7 @@
 
     <section class="no-padding" id="portfolio">
       <div class="container-fluid">
-        <div class="row no-gutter">
+        <div class="row no-gutter popup-gallery">
           <div class="col-lg-4 col-sm-6">
             <a href="pictures/seccdc/group_pic.jpg" class="portfolio-box">
             <img src="pictures/seccdc/group_pic.jpg" class="img-response">
