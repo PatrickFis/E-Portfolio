@@ -92,13 +92,15 @@
     <section class="no-padding" id="portfolio">
       <div class="container-fluid">
         <div class="row no-gutter">
-          <div class="col-lg-4 col-sm-6" class="portfolio-box">
+          <div class="col-lg-4 col-sm-6">
+            <a href="pictures/seccdc/group_pic.jpg" class="portfolio-box">
             <img src="pictures/seccdc/group_pic.jpg" class="img-response">
             <div class="portfolio-box-caption-content">
               <div class="project-category text-faded">
                 SECCDC
               </div>
             </div>
+          </a>
           </div>
         </div>
       </div>
