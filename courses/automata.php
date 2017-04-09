@@ -94,7 +94,6 @@
     <div class="row">
         <div class="col-lg-12">
             <h1 class="page-header">Automata &amp; Formal Language Theory
-                <small>Item Subheading</small>
             </h1>
         </div>
     </div>
