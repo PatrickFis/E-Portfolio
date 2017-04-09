@@ -4,7 +4,6 @@
   <title>Automata &amp; Formal Language Theory</title>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
   <!-- <link rel="stylesheet" type="text/css" href="/css/style.css"> -->
   <!-- Bootstrap Core CSS -->
@@ -115,7 +114,7 @@
   <!-- Plugin JavaScript -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script>
   <script src="/vendor/scrollreveal/scrollreveal.min.js"></script>
-  <script src="/vendor/magnific-popup/jquery.magnific-popup.min.js"></script>
+  <!-- <script src="/vendor/magnific-popup/jquery.magnific-popup.min.js"></script> -->
 
   <!-- Theme JavaScript -->
   <script src="/js/creative.min.js"></script>
