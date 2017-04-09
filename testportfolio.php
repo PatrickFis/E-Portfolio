@@ -115,7 +115,10 @@
             </div>
         </div>
     </section>
-    <div class="container-fluid">
+    <?php
+      include 'hover_generator.php';
+     ?>
+    <!-- <div class="container-fluid">
       <div class="row">
         <div class="col-lg-4 col-sm-6">
           <div class="imgWrap">
@@ -142,8 +145,8 @@
           </div>
         </div>
       </div>
-    </div>
-    <section class="no-padding" id="portfolio">
+    </div> -->
+    <!-- <section class="no-padding" id="portfolio">
         <div class="container-fluid">
             <div class="row no-gutter popup-gallery">
                 <div class="col-lg-4 col-sm-6">
@@ -255,7 +258,7 @@
                 </div>
             </div>
         </div>
-    </section>
+    </section> -->
 
     <!-- <aside class="bg-dark">
         <div class="container text-center">
