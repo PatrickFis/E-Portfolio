@@ -58,24 +58,24 @@
               <div class="item">
                 <img src="/pictures/softwareeng/admin.png" alt="Admin page">
                 <div class="carousel-caption">
-                  <h3>Admin Console</h3>
-                  <p>Allowed administrators to manage site content</p>
+                  <h3 style="color:black;">Admin Console</h3>
+                  <p style="color:black;">Allowed administrators to manage site content</p>
                 </div>
               </div>
 
               <div class="item">
                 <img src="/pictures/softwareeng/calendar.png" alt="Calendar page">
                 <div class="carousel-caption">
-                  <h3>Calendar</h3>
-                  <p>An editable calendar for administrators to schedule events</p>
+                  <h3 style="color:black;">Calendar</h3>
+                  <p style="color:black;">An editable calendar for administrators to schedule events</p>
                 </div>
               </div>
 
               <div class="item">
                 <img src="/pictures/softwareeng/contact.png" alt="Contact page">
                 <div class="carousel-caption">
-                  <h3>Contact Page</h3>
-                  <p>An editable page that displays contact information</p>
+                  <h3 style="color:black;">Contact Page</h3>
+                  <p style="color:black;">An editable page that displays contact information</p>
                 </div>
               </div>
 
