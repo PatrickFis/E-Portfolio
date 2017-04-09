@@ -38,6 +38,7 @@
       position: relative;
       display: block;
       margin: 0 auto;
+      max-width: 500px;
       /*height: 200px;*/
       /*width: 257px;*/
       }
