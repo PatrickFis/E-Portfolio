@@ -53,11 +53,11 @@
     // echo '</div>';
     echo '<div class="col-sm-3 col-xs-6">';
     echo '<div class-"portfolio-box">';
-    echo '<a href="'.$projects[$chosenArray[$j]].'" class="portfolio-box">';
-    echo '<img src="'.$pictures[$chosenArray[$j]].'" class="img-responsive" style="height:200px;width:250px;">';
+    echo '<a href="'.$projects[$chosenArray[$i]].'" class="portfolio-box">';
+    echo '<img src="'.$pictures[$chosenArray[$i]].'" class="img-responsive" style="height:200px;width:250px;">';
     echo '<div class="portfolio-box-caption">';
     echo '<div class="portfolio-box-caption-content">';
-    echo '<div class="project-category text-faded">'.$descriptions[$chosenArray[$j]].'</div>';
+    echo '<div class="project-category text-faded">'.$descriptions[$chosenArray[$i]].'</div>';
     echo '</div>';
     echo '</div>';
     echo '</a>'; // link
