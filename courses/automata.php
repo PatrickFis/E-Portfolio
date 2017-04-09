@@ -85,7 +85,7 @@
 
       <!-- Testing portfolio item from Github -->
       <!-- Page Content -->
-<div class="container" style="margin:15px;">
+<div class="container">
 
     <!-- Portfolio Item Heading -->
     <div class="row">
