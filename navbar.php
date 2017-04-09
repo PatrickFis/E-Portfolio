@@ -49,6 +49,7 @@
               <li><a href="/docs/WorkReflection.docx">Work Reflection</a></li>
             </ul>
           </li>
+          <li><a href="/contact.php">Contact Me</a></li>
         </ul>
         </div><!--/.nav-collapse -->
       </div>
