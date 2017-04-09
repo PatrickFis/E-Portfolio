@@ -39,16 +39,8 @@
   // Page content
   echo '<div class="container-fluid">';
   // Row 1
-  // col 1
   echo '<div class="row">';
-  // echo '<div class="col-lg-4 col-sm-6">';
-  // echo '<div class="imgWrap">';
-  // echo '<a href="'.$projects[$chosenArray[0]].'">';
-  // echo '<img src="'.$pictures[$chosenArray[0]].'" class="img-responsive">';
-  // echo '<p class="imgDescription">'.$descriptions[$chosenArray[0]].'</p>';
-  // echo '</a>'; // link
-  // echo '</div>'; // imgWrap
-  // echo '</div>'; // col
+  // col 1
   echo '<div class="col-lg-4 col-sm-6">';
   echo '<div class-"portfolio-box">';
   echo '<a href="'.$projects[$chosenArray[0]].'" class="portfolio-box">';
@@ -64,57 +56,75 @@
 
   //col 2
   echo '<div class="col-lg-4 col-sm-6">';
-  echo '<div class="imgWrap">';
-  echo '<a href="'.$projects[$chosenArray[1]].'">';
+  echo '<div class-"portfolio-box">';
+  echo '<a href="'.$projects[$chosenArray[1]].'" class="portfolio-box">';
   echo '<img src="'.$pictures[$chosenArray[1]].'" class="img-responsive">';
-  echo '<p class="imgDescription">'.$descriptions[$chosenArray[1]].'</p>';
+  echo '<div class="portfolio-box-caption">';
+  echo '<div class="portfolio-box-caption-content">';
+  echo '<div class="project-category text-faded">'.$descriptions[$chosenArray[1]].'</div>';
+  echo '</div>';
+  echo '</div>';
   echo '</a>'; // link
-  echo '</div>'; // imgWrap
-  echo '</div>'; // col
+  echo '</div>';
+  echo '</div>';
 
   //col 3
   echo '<div class="col-lg-4 col-sm-6">';
-  echo '<div class="imgWrap">';
-  echo '<a href="'.$projects[$chosenArray[2]].'">';
+  echo '<div class-"portfolio-box">';
+  echo '<a href="'.$projects[$chosenArray[2]].'" class="portfolio-box">';
   echo '<img src="'.$pictures[$chosenArray[2]].'" class="img-responsive">';
-  echo '<p class="imgDescription">'.$descriptions[$chosenArray[2]].'</p>';
+  echo '<div class="portfolio-box-caption">';
+  echo '<div class="portfolio-box-caption-content">';
+  echo '<div class="project-category text-faded">'.$descriptions[$chosenArray[2]].'</div>';
+  echo '</div>';
+  echo '</div>';
   echo '</a>'; // link
-  echo '</div>'; // imgWrap
-  echo '</div>'; // col
-  echo '</div>'; // row
+  echo '</div>';
+  echo '</div>';
   // Row 2
   echo '<div class="row">';
 
   // col 1
   echo '<div class="col-lg-4 col-sm-6">';
-  echo '<div class="imgWrap">';
-  echo '<a href="'.$projects[$chosenArray[3]].'">';
+  echo '<div class-"portfolio-box">';
+  echo '<a href="'.$projects[$chosenArray[3]].'" class="portfolio-box">';
   echo '<img src="'.$pictures[$chosenArray[3]].'" class="img-responsive">';
-  echo '<p class="imgDescription">'.$descriptions[$chosenArray[3]].'</p>';
+  echo '<div class="portfolio-box-caption">';
+  echo '<div class="portfolio-box-caption-content">';
+  echo '<div class="project-category text-faded">'.$descriptions[$chosenArray[3]].'</div>';
+  echo '</div>';
+  echo '</div>';
   echo '</a>'; // link
-  echo '</div>'; // imgWrap
-  echo '</div>'; // col
+  echo '</div>';
+  echo '</div>';
 
   //col 2
   echo '<div class="col-lg-4 col-sm-6">';
-  echo '<div class="imgWrap">';
-  echo '<a href="'.$projects[$chosenArray[4]].'">';
+  echo '<div class-"portfolio-box">';
+  echo '<a href="'.$projects[$chosenArray[4]].'" class="portfolio-box">';
   echo '<img src="'.$pictures[$chosenArray[4]].'" class="img-responsive">';
-  echo '<p class="imgDescription">'.$descriptions[$chosenArray[4]].'</p>';
+  echo '<div class="portfolio-box-caption">';
+  echo '<div class="portfolio-box-caption-content">';
+  echo '<div class="project-category text-faded">'.$descriptions[$chosenArray[4]].'</div>';
+  echo '</div>';
+  echo '</div>';
   echo '</a>'; // link
-  echo '</div>'; // imgWrap
-  echo '</div>'; // col
+  echo '</div>';
+  echo '</div>';
 
   //col 3
   echo '<div class="col-lg-4 col-sm-6">';
-  echo '<div class="imgWrap">';
-  echo '<a href="'.$projects[$chosenArray[5]].'">';
+  echo '<div class-"portfolio-box">';
+  echo '<a href="'.$projects[$chosenArray[5]].'" class="portfolio-box">';
   echo '<img src="'.$pictures[$chosenArray[5]].'" class="img-responsive">';
-  echo '<p class="imgDescription">'.$descriptions[$chosenArray[5]].'</p>';
+  echo '<div class="portfolio-box-caption">';
+  echo '<div class="portfolio-box-caption-content">';
+  echo '<div class="project-category text-faded">'.$descriptions[$chosenArray[5]].'</div>';
+  echo '</div>';
+  echo '</div>';
   echo '</a>'; // link
-  echo '</div>'; // imgWrap
-  echo '</div>'; // col
-  echo '</div>'; // row
+  echo '</div>';
+  echo '</div>';
 
   echo '</div>';
 
