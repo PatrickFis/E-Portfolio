@@ -50,10 +50,8 @@
   echo '</a>'; // link
   echo '</div>'; // imgWrap
   echo '</div>'; // col
-  echo '</div>'; // row
 
   //col 2
-  echo '<div class="row">';
   echo '<div class="col-lg-4 col-sm-6">';
   echo '<div class="imgWrap">';
   echo '<a href="'.$projects[0].'">';
@@ -62,10 +60,8 @@
   echo '</a>'; // link
   echo '</div>'; // imgWrap
   echo '</div>'; // col
-  echo '</div>'; // row
 
   //col 3
-  echo '<div class="row">';
   echo '<div class="col-lg-4 col-sm-6">';
   echo '<div class="imgWrap">';
   echo '<a href="'.$projects[0].'">';
@@ -79,7 +75,6 @@
   echo '<div class="row">';
 
   // col 1
-  echo '<div class="row">';
   echo '<div class="col-lg-4 col-sm-6">';
   echo '<div class="imgWrap">';
   echo '<a href="'.$projects[0].'">';
@@ -88,10 +83,8 @@
   echo '</a>'; // link
   echo '</div>'; // imgWrap
   echo '</div>'; // col
-  echo '</div>'; // row
 
   //col 2
-  echo '<div class="row">';
   echo '<div class="col-lg-4 col-sm-6">';
   echo '<div class="imgWrap">';
   echo '<a href="'.$projects[0].'">';
@@ -100,10 +93,8 @@
   echo '</a>'; // link
   echo '</div>'; // imgWrap
   echo '</div>'; // col
-  echo '</div>'; // row
 
   //col 3
-  echo '<div class="row">';
   echo '<div class="col-lg-4 col-sm-6">';
   echo '<div class="imgWrap">';
   echo '<a href="'.$projects[0].'">';
