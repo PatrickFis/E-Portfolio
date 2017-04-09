@@ -138,7 +138,7 @@
                     <p>Please contact me on LinkedIn</p>
                 </div>
                 <div class="col-lg-4 col-lg-offset-4 text-center">
-                    <div style="" class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="patrick-fischer-32a219a1"><a class="LI-simple-link" href='https://www.linkedin.com/in/patrick-fischer-32a219a1?trk=profile-badge'>Patrick Fischer</a></div>
+                    <div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="vertical" data-theme="dark" data-vanity="patrick-fischer-32a219a1"><a class="LI-simple-link" href='https://www.linkedin.com/in/patrick-fischer-32a219a1?trk=profile-badge'>Patrick Fischer</a></div>
                 </div>
                 <!-- <div class="col-lg-4 text-center">
                     <i class="fa fa-envelope-o fa-3x sr-contact"></i>
