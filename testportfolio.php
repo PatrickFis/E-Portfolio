@@ -39,7 +39,6 @@
       /*height: 200px;*/
       /*width: 257px;*/
       }
-      a:hover { background-color: transparent; text-decoration: none; }
       .imgDescription {
       position: absolute;
       top: 0;
@@ -55,6 +54,9 @@
       .imgWrap:hover .imgDescription {
       visibility: visible;
       opacity: 1;
+      }
+      .imgWrap a:hover {
+        background-color: transparent; text-decoration: none;
       }
     </style>
 </head>
