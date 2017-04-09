@@ -51,7 +51,7 @@
   // echo '</div>'; // col
   echo '<div class="col-lg-4 col-sm-6">';
   echo '<div class-"portfolio-box">';
-  echo '<a href="'.$projects[$chosenArray[0]].'">';
+  echo '<a href="'.$projects[$chosenArray[0]].'" class="portfolio-box">';
   echo '<img src="'.$pictures[$chosenArray[0]].'" class="img-responsive">';
   echo '<div class="portfolio-box-caption">';
   echo '<div class="portfolio-box-caption-content">';
