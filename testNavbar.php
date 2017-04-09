@@ -82,7 +82,7 @@
     </nav>
 
     <header>
-        <div class="header-content">
+        <div class="header-content hidden">
             <div class="header-content-inner">
                 <h1 id="homeHeading">Patrick Fischer</h1>
                 <hr>
