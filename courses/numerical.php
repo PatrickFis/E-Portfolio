@@ -95,7 +95,6 @@
     <div class="row">
         <div class="col-lg-12">
             <h1 class="page-header">Numerical Methods
-                <small>Item Subheading</small>
             </h1>
         </div>
     </div>
@@ -119,24 +118,24 @@
             <div class="item active">
               <img src="/pictures/numerical/gauss.png" alt="Portion of code for Gaussian Elimination">
               <div class="carousel-caption">
-                <h3>Gaussian Elimination</h3>
-                <p>Part of the code used for Gaussian Elimination</p>
+                <h3 style="color:black;">Gaussian Elimination</h3>
+                <p style="color:black;">Part of the code used for Gaussian Elimination</p>
               </div>
             </div>
 
             <div class="item">
               <img src="/pictures/numerical/newton.png" alt="Newton Interpolation Polynomial">
               <div class="carousel-caption">
-                <h3>Newtom Interpolation</h3>
-                <p>Calculates an interpolation polynomial to estimate a function</p>
+                <h3 style="color:black;">Newtom Interpolation</h3>
+                <p style="color:black;">Calculates an interpolation polynomial to estimate a function</p>
               </div>
             </div>
 
             <div class="item">
               <img src="/pictures/numerical/spline.png" alt="Cubic Spline Function">
               <div class="carousel-caption">
-                <h3>Cubic Spline</h3>
-                <p>Calculates the coefficients of a cubic spline function</p>
+                <h3 style="color:black;">Cubic Spline</h3>
+                <p style="color:black;">Calculates the coefficients of a cubic spline function</p>
               </div>
             </div>
           </div>
@@ -154,11 +153,19 @@
       </div>
 
         <div class="col-md-4">
-            <h3>Numerical Methods Projects</h3>
-            <p>TODO</p>
+            <h3>Numerical Methods</h3>
+            <p>This course served as an introduction to the techniques used to
+            solve mathematical problems numerically. The problems covered included
+            finding roots of equations, error analysis, simultaneous linear equations,
+            numerical integration, spline functions, approximations, and Monte
+            Carlo methods. This course involved a number of projects where these
+            techniques were implemented.</p>
             <h3>Project Details</h3>
             <ul>
-                <li>TODO</li>
+                <li>This course involved a number of projects.</li>
+                <li>The projects shown to the left are examples of solving systems of equations
+                using Gaussian Elimination, estimating a function using a Newton Interpolating
+                Polynomial, and calculating the coefficients of a cubic spline function.</li>
             </ul>
         </div>
 
