@@ -49,9 +49,7 @@
       color: #fff;
       visibility: hidden;
       opacity: 0;
-      /*remove comment if you want a gradual transition between states
           -webkit-transition: visibility opacity 0.2s;
-          */
       }
       .imgWrap:hover .imgDescription {
       visibility: visible;
