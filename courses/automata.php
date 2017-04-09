@@ -83,7 +83,9 @@
       <!-- Testing portfolio item from Github -->
       <!-- Page Content -->
       <!-- Margin added to fix navbar issues -->
-<div class="container" style="margin-top:30px;">
+      <br/>
+      <br/>
+<div class="container" style="margin-top:10px;">
 
     <!-- Portfolio Item Heading -->
     <div class="row">
