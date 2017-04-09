@@ -65,7 +65,6 @@
   .navbar-default .nav > li.active > a:focus:hover {
     background-color: transparent;
   }
-  @media (min-width: 768px) {
     .navbar-default {
       background-color: transparent;
       border-color: rgba(255, 255, 255, 0.3);
@@ -105,7 +104,6 @@
     .navbar-default.affix .nav > li > a:focus:hover {
       color: #F05F40;
     }
-  }
   </style>
   <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
   <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
