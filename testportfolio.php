@@ -56,7 +56,7 @@
       opacity: 1;
       }
       .imgWrap a:hover {
-        background-color: transparent;
+        background-color: transparent; text-decoration: none;
       }
     </style>
 </head>
@@ -119,10 +119,10 @@
       <div class="row">
         <div class="col-lg-4 col-sm-6">
           <div class="imgWrap">
-            <a href="/courses/automata.php" class="imgWrap">
+            <!-- <a href="/courses/automata.php"> -->
               <img src="/pictures/automata/automata.png" class="img-responsive">
               <p class="imgDescription">Automata &amp; Formal Language Theory</p>
-            </a>
+            <!-- </a> -->
           </div>
         </div>
         <div class="col-lg-4 col-sm-6">
