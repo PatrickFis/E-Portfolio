@@ -23,7 +23,6 @@
     <div class="row">
         <div class="col-lg-12">
             <h1 class="page-header">Data Structures
-                <small>Item Subheading</small>
             </h1>
         </div>
     </div>
@@ -81,11 +80,17 @@
       </div>
 
         <div class="col-md-4">
-            <h3>Data Structures Projects</h3>
-            <p>TODO</p>
+            <h3>Data Structures</h3>
             <h3>Project Details</h3>
             <ul>
-                <li>TODO</li>
+                <li>This course focused on teaching fundamental data structures
+                and algorithms commonly used in the computer science field.
+                These included linked lists, stacks, queues, trees, and
+                graphs.</li>
+                <li>The projects all incolved implementing the algorithms
+                taught in class. These projects included implementing a linked
+                list, creating stacks and queues using the linked list, and
+                implementing binary and AVL trees.</li>
             </ul>
         </div>
 
