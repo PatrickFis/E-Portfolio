@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Database Management Systems</title>
+  <title>Design &amp; Analysis of Algorithms</title>
   <meta charset="utf-8">
   <!-- Bootstrap Core CSS -->
   <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -88,7 +88,7 @@
     <!-- Portfolio Item Heading -->
     <div class="row">
         <div class="col-lg-12">
-            <h1 class="page-header">Database Management Systems
+            <h1 class="page-header">Design &amp; Analysis of Algorithms
             </h1>
         </div>
     </div>
@@ -104,30 +104,32 @@
               <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
               <li data-target="#myCarousel" data-slide-to="1"></li>
               <li data-target="#myCarousel" data-slide-to="2"></li>
+              <li data-target="#myCarousel" data-slide-to="3"></li>
             </ol>
 
             <!-- Wrapper for slides -->
             <div class="carousel-inner" role="listbox">
               <div class="item active">
-                <img src="/pictures/dbms/q5.png" alt="SQL Queries">
+                <img src="/pictures/design/mergesort.png" alt="Mergesort">
                 <div class="carousel-caption">
-                  <h3 style="color:black;">SQL Queries</h3>
+                  <h3 style="color:black;">Mergesort</h3>
                 </div>
               </div>
 
               <div class="item">
-                <img src="/pictures/dbms/q6.png" alt="SQL Queries">
+                <img src="/pictures/design/convex.png" alt="Convex Hull">
                 <div class="carousel-caption">
-                  <h3 style="color:black;">SQL Queries</h3>
+                  <h3 style="color:black;">Convex Hull</h3>
                 </div>
               </div>
 
               <div class="item">
-                <img src="/pictures/dbms/q7.png" alt="SQL Queries">
+                <img src="/pictures/design/simplex.png" alt="Simplex Method">
                 <div class="carousel-caption">
-                  <h3 style="color:black;">SQL Queries</h3>
+                  <h3 style="color:black;">Simplex Method</h3>
                 </div>
               </div>
+
             </div>
 
             <!-- Left and right controls -->
@@ -143,20 +145,19 @@
         </div>
 
         <div class="col-md-4">
-            <h3>Database Management Systems</h3>
-            <p>This course served as an introduction to database concepts and the relational
-            database model. These concepts included SQL, normalization, design methodology,
-            DBMS functions, database administration, non-relational databases, and relational
-            algebra. These concepts were reinforced with a number of projects throughout
-            the course.</p>
-            <h3>Project Details</h3>
+            <h3>Design &amp; Analysis of Algorithms</h3>
+            <p>This course introduced me to techniques for designing algorithms
+            and for analyzing their time and space efficiency. Topics included
+            divide-and-conquer algorithms, greedy algorithms, dynamic programming,
+            computational models, best/average/worst case analysis, and computational
+            complexity (including lower bounds and NP-completeness).</p>
+            <h3>Details</h3>
             <ul>
-                <li>The last group project in this course required us to create a
-                database modeling one used by the university. We were given a number
-                of problems that could potentially arise in a typical day, and we
-                used SQL to solve them.</li>
-                <li>Some of the SQL queries that we wrote can be seen on
-                the left.</li>
+                <li>This course focused on analyzing existing algorithms
+                mathematically. As a result, very few programming projects
+                occured in this course.</li>
+                <li>Some graphical representations of algorithms that were
+                studied appear on this page.</li>
             </ul>
         </div>
 

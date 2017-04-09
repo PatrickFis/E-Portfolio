@@ -34,6 +34,7 @@
                     <li><a href="/courses/softwareeng.php">Software Engineering</a></li>
                     <li><a href="/courses/datastruct.php">Data Structures</a></li>
                     <li><a href="/courses/dbms.php">Database Management Systems</a></li>
+                    <li><a href="/courses/design.php">Design &amp; Analysis of Algorithms</a></li>
                     <!-- <li><a href="/courses/courses.php">Software Engineering</a></li> -->
                   </ul>
                 </li>
