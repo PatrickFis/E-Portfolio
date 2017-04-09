@@ -94,8 +94,7 @@
     <!-- Portfolio Item Heading -->
     <div class="row">
         <div class="col-lg-12">
-            <h1 class="page-header">Information Security Project
-                <small>Semester Project</small>
+            <h1 class="page-header">Information Security
             </h1>
         </div>
     </div>
@@ -146,7 +145,12 @@
         </div>
 
         <div class="col-md-4">
-            <h3>OSSEC</h3>
+            <h3>Information Security</h3>
+            <p>This course served as an introduction to the security of digital information.
+            Topics included threats, regulations, risk management, attack detection
+            and response, cryptography, forensics, technical training, and certifications.
+            This course included a semester long project that required my team to implement
+            an IDS.</p>
             <h3>Project Details</h3>
             <ul>
                 <li>This project involved setting up a vulnerable operating system and using an intrusion detection system to monitor attacks
