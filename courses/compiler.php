@@ -158,7 +158,7 @@
             <h3>Compiler Construction</h3>
             <p>This course introduced me to the theory and design techniques used in compiler construction. The topics
             covered included lexical analysis, parsing, grammars, semantic analysis, code generation, and
-            optimization. This course involved a semester long project that required me to implement a compiler that
+            optimization. This course involved a semester long project that required me to implement a compiler
             to compile SLIC programs into GSTAL programs.</p>
             <h3>Project Details</h3>
             <ul>
