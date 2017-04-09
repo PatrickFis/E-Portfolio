@@ -124,6 +124,22 @@
             </a>
           </div>
         </div>
+        <div class="col-lg-4 col-sm-6">
+          <div class="imgWrap">
+            <a href="/courses/automata.php">
+              <img src="/pictures/automata/automata.png">
+              <p class="imgDescription">Automata &amp; Formal Language Theory</p>
+            </a>
+          </div>
+        </div>
+        <div class="col-lg-4 col-sm-6">
+          <div class="imgWrap">
+            <a href="/courses/automata.php">
+              <img src="/pictures/automata/automata.png">
+              <p class="imgDescription">Automata &amp; Formal Language Theory</p>
+            </a>
+          </div>
+        </div>
       </div>
     </div>
     <section class="no-padding" id="portfolio">
