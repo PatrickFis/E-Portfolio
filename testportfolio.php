@@ -32,6 +32,32 @@
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
 
+    <!-- Testing custom hover stuff -->
+    <style>
+      .imgWrap {
+      position: relative;
+      height: 200px;
+      width: 257px;
+      }
+      .imgDescription {
+      position: absolute;
+      top: 0;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: rgba(29, 106, 154, 0.72);
+      color: #fff;
+      visibility: hidden;
+      opacity: 0;
+      /*remove comment if you want a gradual transition between states
+          -webkit-transition: visibility opacity 0.2s;
+          */
+      }
+      .imgWrap:hover .imgDescription {
+      visibility: visible;
+      opacity: 1;
+      }
+    </style>
 </head>
 
 <body id="page-top">
@@ -89,6 +115,12 @@
         </div>
     </section>
 
+    <div class="imgWrap">
+      <a href="/courses/automata.php">
+        <img src="/pictures/automata/automata.png">
+        <p class="imgDescription">Automata &amp; Formal Language Theory</p>
+      </a>
+    </div>
     <section class="no-padding" id="portfolio">
         <div class="container-fluid">
             <div class="row no-gutter popup-gallery">
