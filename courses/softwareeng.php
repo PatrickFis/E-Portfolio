@@ -190,13 +190,12 @@
 
         <div class="col-md-4">
             <h3>Software Engineering</h3>
-            <p>Brentwood Leadership Foundation</p>
+            <p>This course introduced me to a number of techniques and methods
+            used in analysis, design, implementation, and testing of software.
+            This course involved a semester long group project for a non-profit
+            company, the Brentwood Leadership Foundation.</p>
             <h3>Project Details</h3>
             <ul>
-                <li>This course introduced me to a number of techniques and methods
-                used in analysis, design, implementation, and testing of software.</li>
-                <li>This course involved a semester long project that required my group
-                to create a new website for the Brentwood Leadership Foundation.</li>
                 <li>My group created various pages for the organization, such as
                 a home page, a calendar page, a contact page, a donation page, user login
                 and registration pages, a sponsors page, and a class members page.</li>
