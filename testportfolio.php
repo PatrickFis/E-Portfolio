@@ -46,7 +46,7 @@
       left: 0;
       right: 0;
       background: rgba(255, 255, 255, 0.72);
-      color: #fff;
+      color: black;
       visibility: hidden;
       opacity: 0;
           -webkit-transition: visibility opacity 0.2s;
