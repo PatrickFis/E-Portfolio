@@ -46,7 +46,7 @@
   echo '<div class="imgWrap">';
   echo '<a href="'.$projects[0].'">';
   echo '<img src="'.$pictures[0].'" class="img-responsive">';
-  echo '<p class="imgDescription">'.$description[0].'</p>';
+  echo '<p class="imgDescription">'.$descriptions[0].'</p>';
   echo '</a>'; // link
   echo '</div>'; // imgWrap
   echo '</div>'; // col
@@ -56,7 +56,7 @@
   echo '<div class="imgWrap">';
   echo '<a href="'.$projects[0].'">';
   echo '<img src="'.$pictures[0].'" class="img-responsive">';
-  echo '<p class="imgDescription">'.$description[0].'</p>';
+  echo '<p class="imgDescription">'.$descriptions[0].'</p>';
   echo '</a>'; // link
   echo '</div>'; // imgWrap
   echo '</div>'; // col
@@ -66,7 +66,7 @@
   echo '<div class="imgWrap">';
   echo '<a href="'.$projects[0].'">';
   echo '<img src="'.$pictures[0].'" class="img-responsive">';
-  echo '<p class="imgDescription">'.$description[0].'</p>';
+  echo '<p class="imgDescription">'.$descriptions[0].'</p>';
   echo '</a>'; // link
   echo '</div>'; // imgWrap
   echo '</div>'; // col
@@ -79,7 +79,7 @@
   echo '<div class="imgWrap">';
   echo '<a href="'.$projects[0].'">';
   echo '<img src="'.$pictures[0].'" class="img-responsive">';
-  echo '<p class="imgDescription">'.$description[0].'</p>';
+  echo '<p class="imgDescription">'.$descriptions[0].'</p>';
   echo '</a>'; // link
   echo '</div>'; // imgWrap
   echo '</div>'; // col
@@ -89,7 +89,7 @@
   echo '<div class="imgWrap">';
   echo '<a href="'.$projects[0].'">';
   echo '<img src="'.$pictures[0].'" class="img-responsive">';
-  echo '<p class="imgDescription">'.$description[0].'</p>';
+  echo '<p class="imgDescription">'.$descriptions[0].'</p>';
   echo '</a>'; // link
   echo '</div>'; // imgWrap
   echo '</div>'; // col
@@ -99,7 +99,7 @@
   echo '<div class="imgWrap">';
   echo '<a href="'.$projects[0].'">';
   echo '<img src="'.$pictures[0].'" class="img-responsive">';
-  echo '<p class="imgDescription">'.$description[0].'</p>';
+  echo '<p class="imgDescription">'.$descriptions[0].'</p>';
   echo '</a>'; // link
   echo '</div>'; // imgWrap
   echo '</div>'; // col
