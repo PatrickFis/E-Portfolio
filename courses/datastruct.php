@@ -94,7 +94,7 @@
     <!-- Portfolio Item Heading -->
     <div class="row">
         <div class="col-lg-12">
-            <h1 class="page-header">Data Structures
+            <h1 class="page-header">Data Structures &amp; Algorithms
             </h1>
         </div>
     </div>
@@ -152,14 +152,15 @@
       </div>
 
         <div class="col-md-4">
-            <h3>Data Structures</h3>
+            <h3>Data Structures &amp; Algorithms</h3>
+            <p>This course focused on teaching fundamental data structures
+            and algorithms commonly used in the computer science field.
+            These included linked lists, stacks, queues, trees, and
+            graphs. This course included various projects throughout the
+            semester involving these topics.</p>
             <h3>Project Details</h3>
             <ul>
-                <li>This course focused on teaching fundamental data structures
-                and algorithms commonly used in the computer science field.
-                These included linked lists, stacks, queues, trees, and
-                graphs.</li>
-                <li>The projects all incolved implementing the algorithms
+                <li>The projects all involved implementing the algorithms
                 taught in class. These projects included implementing a linked
                 list, creating stacks and queues using the linked list, and
                 implementing binary and AVL trees.</li>
