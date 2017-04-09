@@ -117,15 +117,15 @@
               <div class="item active">
                 <img src="/pictures/genetics/report_viewer.png" alt="Report Viewer">
                 <div class="carousel-caption">
-                  <h3 style="color:black;">Part of a web-based report viewer I created</h3>
-                  <p style="color:black;">This application finds spreadsheets and creates interactive reports for users</p>
+                  <h3 style="color:black;">Report Viewer</h3>
+                  <p style="color:black;">This application takes spreadsheets and creates interactive reports for users</p>
                 </div>
               </div>
 
               <div class="item">
                 <img src="/pictures/genetics/flash_report.png" alt="Flash Report">
                 <div class="carousel-caption">
-                  <h3 style="color:black;">Portion of code from one of the reports I helped re-write</h3>
+                  <h3 style="color:black;">Reporting Program</h3>
                   <p style="color:black;">This report let upper management know what cases had been recently completed</p>
                 </div>
               </div>
@@ -133,7 +133,7 @@
               <div class="item">
                 <img src="/pictures/genetics/pending_list.png" alt="Pending List">
                 <div class="carousel-caption">
-                  <h3 style="color:black;">Portion of code from one of the reports I helped re-write</h3>
+                  <h3 style="color:black;">Reporting Program</h3>
                   <p style="color:black;">This report let upper management know about cases that needed to be worked on by the lab</p>
                 </div>
               </div>
