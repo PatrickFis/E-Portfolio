@@ -7,7 +7,7 @@
   <!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"> -->
   <!-- <link rel="stylesheet" type="text/css" href="/css/style.css"> -->
   <!-- Bootstrap Core CSS -->
-  <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <!-- <link href="/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet"> -->
 
   <!-- Custom Fonts -->
   <link href="/vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
@@ -15,7 +15,7 @@
   <link href='https://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
 
   <!-- Plugin CSS -->
-  <link href="/vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
+  <!-- <link href="/vendor/magnific-popup/magnific-popup.css" rel="stylesheet"> -->
 
   <!-- Theme CSS -->
   <link href="/css/creative.min.css" rel="stylesheet">
