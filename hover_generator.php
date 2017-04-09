@@ -39,17 +39,28 @@
   // Page content
   echo '<div class="container-fluid">';
   // Row 1
-
   // col 1
   echo '<div class="row">';
+  // echo '<div class="col-lg-4 col-sm-6">';
+  // echo '<div class="imgWrap">';
+  // echo '<a href="'.$projects[$chosenArray[0]].'">';
+  // echo '<img src="'.$pictures[$chosenArray[0]].'" class="img-responsive">';
+  // echo '<p class="imgDescription">'.$descriptions[$chosenArray[0]].'</p>';
+  // echo '</a>'; // link
+  // echo '</div>'; // imgWrap
+  // echo '</div>'; // col
   echo '<div class="col-lg-4 col-sm-6">';
-  echo '<div class="imgWrap">';
+  echo '<div class-"portfolio-box">';
   echo '<a href="'.$projects[$chosenArray[0]].'">';
   echo '<img src="'.$pictures[$chosenArray[0]].'" class="img-responsive">';
-  echo '<p class="imgDescription">'.$descriptions[$chosenArray[0]].'</p>';
+  echo '<div class="portfolio-box-caption">';
+  echo '<div class="portfolio-box-caption-content">';
+  echo '<div class="project-category text-faded">TEST</div>';
+  echo '</div>';
+  echo '</div>';
   echo '</a>'; // link
-  echo '</div>'; // imgWrap
-  echo '</div>'; // col
+  echo '</div>';
+  echo '</div>';
 
   //col 2
   echo '<div class="col-lg-4 col-sm-6">';
