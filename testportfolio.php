@@ -49,12 +49,13 @@
         text-align: center;
         width: 100%;
         height: 100%;
+        top: 50%;
+        transform: translateY(-50%);
         -webkit-transition: all 0.35s;
         -moz-transition: all 0.35s;
         transition: all 0.35s;
       }
       .imgWrap:hover .imgDescription {
-        text-align: center;
         visibility: visible;
         opacity: 1;
       }
