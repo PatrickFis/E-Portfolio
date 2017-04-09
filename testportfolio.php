@@ -183,6 +183,7 @@
                     </a>
                 </div>
                 <div class="col-lg-4 col-sm-6">
+                  <div class="portfolio-box">
                         <img src="img/portfolio/thumbnails/6.jpg" class="img-responsive" alt="">
                         <div class="portfolio-box-caption">
                             <div class="portfolio-box-caption-content">
@@ -194,6 +195,7 @@
                                 </div>
                             </div>
                         </div>
+                      </div>
                 </div>
             </div>
         </div>
