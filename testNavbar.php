@@ -81,7 +81,16 @@
         <!-- /.container-fluid -->
     </nav>
 
-    
+    <header>
+        <div class="header-content">
+            <div class="header-content-inner">
+                <h1 id="homeHeading">Patrick Fischer</h1>
+                <hr>
+                <p>Welcome to my e-portfolio!</p>
+                <a href="#about" class="btn btn-primary btn-xl page-scroll">Find Out More</a>
+            </div>
+        </div>
+    </header>
 
     <!-- jQuery -->
     <script src="vendor/jquery/jquery.min.js"></script>
