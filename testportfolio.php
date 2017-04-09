@@ -56,7 +56,7 @@
       opacity: 1;
       }
       .imgWrap a:hover {
-        background-color: transparent; text-decoration: none;
+        background-color: transparent;
       }
     </style>
 </head>
