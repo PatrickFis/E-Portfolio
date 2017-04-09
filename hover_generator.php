@@ -81,6 +81,7 @@
   echo '</a>'; // link
   echo '</div>';
   echo '</div>';
+  echo '</div>';
   // Row 2
   echo '<div class="row">';
 
