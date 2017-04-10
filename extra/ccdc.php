@@ -123,7 +123,7 @@
             </div>
 
             <div class="item">
-              <img src="/pictures/seccdc/mid_regional.jpg" alt="Group picture in the middle of regionals">
+              <img src="/pictures/seccdc/mid_regional_resize.jpg" alt="Group picture in the middle of regionals">
               <div class="carousel-caption">
                 <h3>Regionals</h3>
                 <p>Defending our servers</p>
