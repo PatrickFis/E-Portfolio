@@ -156,7 +156,7 @@
             <p>SECCDC is a cybersecurity competition held yearly at Kennesaw State University.
             The purpose of this competition is to find the best team from the southeast
             region to contend in the national CCDC competition. This year Lipscomb
-            placed sixth out of thirty-three teams.</p>
+            placed sixth out of thirty-three teams in the preliminary round.</p>
             <h3>Details</h3>
             <ul>
                 <li>I competed in the 2017 SECCDC Regional Competition.</li>
