@@ -123,15 +123,15 @@
             </div>
 
             <div class="item">
-              <img src="/pictures/seccdc/group_pic.jpg" alt="Group picture before we left for Georgia">
+              <img src="/pictures/seccdc/mid_regional.jpg" alt="Group picture in the middle of regionals">
               <div class="carousel-caption">
-                <h3>Group Picture</h3>
-                <p>Right before we drove to Georgia</p>
+                <h3>Regionals</h3>
+                <p>Defending our servers</p>
               </div>
             </div>
 
             <div class="item">
-              <img src="/pictures/seccdc/end.jpg" alt="Lipscomb had every service up at the end">
+              <img src="/pictures/seccdc/end_resize.jpg" alt="Lipscomb had every service up at the end">
               <div class="carousel-caption">
                 <h3>Services</h3>
                 <p>Lipscomb had every service up at the end of the competition</p>
