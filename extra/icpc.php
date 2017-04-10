@@ -94,7 +94,7 @@
     <!-- Portfolio Item Heading -->
     <div class="row">
         <div class="col-lg-12">
-            <h1 class="page-header">ACM ICPC Programming Competition
+            <h1 class="page-header">ACM International Collegiate Programming Contest
             </h1>
         </div>
     </div>
@@ -149,7 +149,7 @@
       </div>
 
         <div class="col-md-4">
-            <h3>ACM ICPC Programming Competition</h3>
+            <h3>ACM ICPC</h3>
             <h3>Details</h3>
             <ul>
                 <li>Competed in the 2014 and 2016 competitions</li>
