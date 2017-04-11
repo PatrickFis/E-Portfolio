@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://patricklfischer.com/home.php</loc>
+</url>
+<url>
+  <loc>http://patricklfischer.com/courses/automata.php</loc>
+</url>
+<url>
+  <loc>http://patricklfischer.com/courses/compiler.php</loc>
+</url>
+<url>
+  <loc>http://patricklfischer.com/courses/datastruct.php</loc>
+</url>
+<url>
+  <loc>http://patricklfischer.com/courses/dbms.php</loc>
+</url>
+<url>
+  <loc>http://patricklfischer.com/courses/design.php</loc>
+</url>
+<url>
+  <loc>http://patricklfischer.com/courses/infosec.php</loc>
+</url>
+<url>
+  <loc>http://patricklfischer.com/courses/mobile.php</loc>
+</url>
+<url>
+  <loc>http://patricklfischer.com/courses/numerical.php</loc>
+</url>
+<url>
+  <loc>http://patricklfischer.com/courses/object.php</loc>
+</url>
+<url>
+  <loc>http://patricklfischer.com/courses/operatingsystems.php</loc>
+</url>
+<url>
+  <loc>http://patricklfischer.com/courses/softwareeng.php</loc>
+</url>
+<url>
+  <loc>http://patricklfischer.com/extra/icpc.php</loc>
+</url>
+<url>
+  <loc>http://patricklfischer.com/extra/ccdc.php</loc>
+</url>
+<url>
+  <loc>http://patricklfischer.com/extra/genetics.php</loc>
+</url>
+<url>
+  <loc>http://patricklfischer.com/extra/hacknashville.php</loc>
+</url>
+<url>
+  <loc>http://patricklfischer.com/docs/Resume.pdf</loc>
+  <lastmod>2017-04-10T17:47:49+00:00</lastmod>
+</url>
+<url>
+  <loc>http://patricklfischer.com/docs/AcademicReflection.pdf</loc>
+  <lastmod>2017-04-10T17:47:49+00:00</lastmod>
+</url>
+<url>
+  <loc>http://patricklfischer.com/docs/EthicsReflection.pdf</loc>
+  <lastmod>2017-04-10T17:47:49+00:00</lastmod>
+</url>
+<url>
+  <loc>http://patricklfischer.com/docs/ServiceReflectionOutline.docx</loc>
+  <lastmod>2017-02-24T18:52:10+00:00</lastmod>
+</url>
+<url>
+  <loc>http://patricklfischer.com/docs/WorkReflection.pdf</loc>
+  <lastmod>2017-04-10T17:47:49+00:00</lastmod>
+</url>
+<url>
+  <loc>http://patricklfischer.com/ccdc/Ubuntu%20AAR.md</loc>
+  <lastmod>2017-04-10T17:47:49+00:00</lastmod>
+</url>
+</urlset>
