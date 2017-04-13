@@ -103,7 +103,51 @@
     <div class="row">
 
         <div class="col-md-8">
-            <img class="img-responsive" src="../pictures/automata/automata.png" alt="">
+          <div id="myCarousel" class="carousel slide" data-ride="carousel">
+            <!-- Indicators -->
+            <ol class="carousel-indicators">
+              <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+              <li data-target="#myCarousel" data-slide-to="1"></li>
+              <li data-target="#myCarousel" data-slide-to="2"></li>
+            </ol>
+
+            <!-- Wrapper for slides -->
+            <div class="carousel-inner" role="listbox">
+              <div class="item active">
+                <img src="/pictures/automata/eclosure.png" alt="Epsilon Closure">
+                <div class="carousel-caption">
+                  <h3 style="color:black;">Epsilon Closure</h3>
+                  <p style="color:black;">Calculates the Epsilon Closure of a state</p>
+                </div>
+              </div>
+
+              <div class="item">
+                <img src="/pictures/automata/nfa.png" alt="NFA">
+                <div class="carousel-caption">
+                  <h3 style="color:black;">NFA</h3>
+                  <p style="color:black;">Translates an NFA to a DFA</p>
+                </div>
+              </div>
+
+              <div class="item">
+                <img src="/pictures/automata/gnfa.png" alt="GNFA">
+                <div class="carousel-caption">
+                  <h3 style="color:black;">GNFA</h3>
+                  <p style="color:black;">Output from previous slide</p>
+                </div>
+              </div>
+            </div>
+
+            <!-- Left and right controls -->
+            <!-- <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
+              <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
+              <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a> -->
+            </div>
         </div>
 
         <div class="col-md-4">
