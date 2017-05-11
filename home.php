@@ -125,7 +125,7 @@
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading">About Me</h2>
                     <hr class="light">
-                    <p class="text-faded">I am a senior at Lipscomb University studying Computer Science.
+                    <p class="text-faded">I just graduated from Lipscomb University with a degree in Computer Science.
                     I am incredibly interested in programming and software engineering, and I would love to discuss
                     it with you on LinkedIn.</p>
                     <a href="#portfolio" class="page-scroll btn btn-default btn-xl sr-button">Portfolio</a>
